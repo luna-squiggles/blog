@@ -52,9 +52,6 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  projects:
-    output: false
-    permalink: /projects/:slug
   
 defaults:
   -
@@ -74,13 +71,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"     
-      
   - scope:
       path: "assets/images"
     values:
