@@ -1,27 +1,23 @@
-site: Colorie
+site: Luna's blog
 url: 
-author: Colorie
+author: Luna Mustfa
 author:
-  name: Colorie
+  name: Luna's blog
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Luna's blog
+description: Luna's (amazing) blog
 logo: 
 image: 
-twitter: ronaldsvilcins  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
+twitter:
+  username:
+  creator:
+  card:
 social:
-  name: Ronalds Vilcins
+  name: Luna Mustfa
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
   
 permalink: pretty
 
@@ -57,7 +53,7 @@ collections:
     output: true
     permalink: /:year/:month/:day/:slug
   projects:
-    output: true
+    output: false
     permalink: /projects/:slug
   
 defaults:
