@@ -3,3 +3,29 @@ html { font-family: 'Inter', 'Helvetica', sans-serif; font-display: swap; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', 'Helvetica', sans-serif; }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=IBM+Plex+Mono:wght@400;700&display=swap');
+
+html {
+    font-family: 'Playfair Display', serif;
+    font-display: swap;
+}
+
+@supports (font-variation-settings: normal) {
+    html {
+        font-family: 'Playfair Display', serif;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
+
+html {
+    font-family: 'IBM Plex Mono', monospace;
+    font-display: swap;
+}
+
+@supports (font-variation-settings: normal) {
+    html {
+        font-family: 'IBM Plex Mono', monospace;
+    }
+}
