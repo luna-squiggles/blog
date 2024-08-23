@@ -61,3 +61,5 @@ This was my second favourite story I've read all week – it was fascinating to 
 #### The Star-Child - 8/10
 
 I enjoyed this stroy it was very thought provoking and I'd say it was one of this week's favourite stories. I think the title is very sweet as well
+
+> books rated thus far: 11
