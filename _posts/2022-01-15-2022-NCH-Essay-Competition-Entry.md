@@ -37,49 +37,44 @@ Benin had asked for the return of the Bronzes to be postponed due to a lack of a
 
 To conclude, Europe has a long history of colonialism, a history that has allowed for the accumulation of many artefacts from around the globe. Museums across Europe that are now the guardians of this looted, rich, history need to acknowledge their unique position and begin to make amends for the trauma and suffering that fills their past. Whilst this process of making amends, decolonisation, will not be an easy one it is the responsibility not only of the museums, but society to hold them to this responsibility. The world is changing for the better in many areas and museums must not be left behind in the fight for equality.
 
-Heal, S. (2019, July 3). Who’s afraid of decolonisation? https://www.museumsassociation.org/museums-journal/opinion/2019/07/03072019-whos-afraid-of-decolonisation-policy-column/
+[Heal, S. (2019, July 3). Who’s afraid of decolonisation?](https://www.museumsassociation.org/museums-journal/opinion/2019/07/03072019-whos-afraid-of-decolonisation-policy-column/)
 
-Cartwright, M. (2020, March 25). Museums in the Ancient Mediterranean https://www.worldhistory.org/article/1530/museums-in-the-ancient-mediterranean/
+[Cartwright, M. (2020, March 25). Museums in the Ancient Mediterranean](https://www.worldhistory.org/article/1530/museums-in-the-ancient-mediterranean/)
 
-Britannica, The Editors of Encyclopaedia. (2021, 8 April). imperialism https://www.britannica.com/topic/imperialism
+[Britannica, The Editors of Encyclopaedia. (2021, 8 April). imperialism](https://www.britannica.com/topic/imperialism)
 
-The British Museum. (2022) The British Museum story https://www.britishmuseum.org/about-us/british-museum-story
+[The British Museum. (2022) The British Museum story](https://www.britishmuseum.org/about-us/british-museum-story)
 
-Sarr, F. & Savoy, B. (2018) Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationnelle
-http://restitutionreport2018.com/sarr_savoy_fr.pdf
+[Sarr, F. & Savoy, B. (2018) Rapport sur la restitution du patrimoine culturel africain. Vers une nouvelle éthique relationnelle](http://restitutionreport2018.com/sarr_savoy_fr.pdf)
 
-BBC. (2021, 30 November) Barbados becomes a republic and parts ways with the Queen https://www.bbc.co.uk/news/world-latin-america-59470843
+[BBC. (2021, 30 November) Barbados becomes a republic and parts ways with the Queen](https://www.bbc.co.uk/news/world-latin-america-59470843)
 
-Nix, E. (2021, 27 October) What Is the Rosetta Stone? https://www.history.com/news/what-is-the-rosetta-stone
+[Nix, E. (2021, 27 October) What Is the Rosetta Stone?](https://www.history.com/news/what-is-the-rosetta-stone)
 
-Britannica, The Editors of Encyclopaedia. (2021, 1 December) Rosetta Stone https://www.britannica.com/topic/Rosetta-Stone
+[Britannica, The Editors of Encyclopaedia. (2021, 1 December) Rosetta Stone](https://www.britannica.com/topic/Rosetta-Stone)
 
-Britannica, The Editors of Encyclopaedia. (2016, 1 September) Bamiyan https://www.britannica.com/place/Bamiyan
+[Britannica, The Editors of Encyclopaedia. (2016, 1 September) Bamiyan](https://www.britannica.com/place/Bamiyan)
 
-Centlivres, P. (2012, 18 April) The Death of the Buddhas of Bamiyan https://www.mei.edu/publications/death-buddhas-bamiyan
+[Centlivres, P. (2012, 18 April) The Death of the Buddhas of Bamiyan](https://www.mei.edu/publications/death-buddhas-bamiyan)
 
-Tawfeek, F. (2018, 7 November) Egypt calls on UK to return Rosetta Stone https://egyptindependent.com/egypt-calls-on-uk-to-return-rosetta-stone/
+[Tawfeek, F. (2018, 7 November) Egypt calls on UK to return Rosetta Stone](https://egyptindependent.com/egypt-calls-on-uk-to-return-rosetta-stone/)
 
-Grand Egyptian Museum. (2022) Grand Egyptian Museum
-https://grandegyptianmuseum.org/
+[Grand Egyptian Museum. (2022) Grand Egyptian Museum](https://grandegyptianmuseum.org/)
 
-The British Museum. (2022) Fact Sheet: British Museum collection https://www.britishmuseum.org/sites/default/files/2019-10/fact_sheet_bm_collection.pdf
+[The British Museum. (2022) Fact Sheet: British Museum collection](https://www.britishmuseum.org/sites/default/files/2019-10/fact_sheet_bm_collection.pdf)
 
-Bailey, M. (2020, 13 November) First look at David Adjaye’s planned museum for Benin City https://www.theartnewspaper.com/2020/11/13/first-look-at-david-adjayes-planned-museum-for-benin-city
+[Bailey, M. (2020, 13 November) First look at David Adjaye’s planned museum for Benin City](https://www.theartnewspaper.com/2020/11/13/first-look-at-david-adjayes-planned-museum-for-benin-city)
 
-Hunt, T. (2019, 29 June) Should museums return their colonial artefacts? https://www.theguardian.com/culture/2019/jun/29/should-museums-return-their-colonial-artefacts
+[Hunt, T. (2019, 29 June) Should museums return their colonial artefacts?](https://www.theguardian.com/culture/2019/jun/29/should-museums-return-their-colonial-artefacts)
 
-Britannica, The Editors of Encyclopaedia. (2018, 31 January) Nataraja https://www.britannica.com/topic/Nataraja
+[Britannica, The Editors of Encyclopaedia. (2018, 31 January) Nataraja](https://www.britannica.com/topic/Nataraja)
 
-Khalid, F. (2017, 12 July) Shiva as Lord of the Dance (Nataraja) https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/india-art/a/shiva-as-lord-of-the-dance-nataraja
+[Khalid, F. (2017, 12 July) Shiva as Lord of the Dance (Nataraja)](https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/india-art/a/shiva-as-lord-of-the-dance-nataraja)
 
-Peirson-Hagger, E. (2019, 20 July) Can we decolonise the British Museum? https://www.newstatesman.com/culture/2019/07/can-we-decolonise-the-british-museum
+[Peirson-Hagger, E. (2019, 20 July) Can we decolonise the British Museum?](https://www.newstatesman.com/culture/2019/07/can-we-decolonise-the-british-museum)
 
-Noce, V. (2019, 17 December) France promises to return 26 looted Benin artefacts by 2021
-https://www.theartnewspaper.com/2019/12/17/france-promises-to-return-26-looted-benin-artefacts-by-2021
+[Noce, V. (2019, 17 December) France promises to return 26 looted Benin artefacts by 2021](https://www.theartnewspaper.com/2019/12/17/france-promises-to-return-26-looted-benin-artefacts-by-2021)
 
-UK Government. (1983, 13 May) National Heritage Act 1983
-https://www.legislation.gov.uk/ukpga/1983/47/introduction
+[UK Government. (1983, 13 May) National Heritage Act 1983](https://www.legislation.gov.uk/ukpga/1983/47/introduction)
 
-Museums Association. (2021) Supporting Decolonisation in Museums
-https://www.museumsassociation.org/campaigns/decolonising-museums/supporting-decolonisation-in-museums/
+[Museums Association. (2021) Supporting Decolonisation in Museums](https://www.museumsassociation.org/campaigns/decolonising-museums/supporting-decolonisation-in-museums/)
