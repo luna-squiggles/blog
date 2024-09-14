@@ -8,7 +8,7 @@ tags: [knitting]
 
 It's September! It's Twilight season... it's pumpkin spice season... it's normal pumpkin season and that's why for this first fall post I'll be explaining how to knit a simple pumpkin.
 
-<img src="2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg" alt="Finished knitted Pumpkin" width="200" style="padding:20px border-radius:15px; display:block;"/>
+
 
 I'm going to explain this in some significant detail in the hopes that if my darling friend Emily wishes to follow this tutorial she may do so (I love u babe ❤️)
 
@@ -22,7 +22,7 @@ My pumpkin had 6 'sections' or 'ribs' (I don't know what you call them but you c
 
 I also used [polyester [soft toy filling](https://www.hobbycraft.co.uk/soft-toy-filling-200g/6301911000.html) from hobbycraft (£4.50 or 2 for £8) for which a bag should last you a while (I've stuffed 4 small knitted cats, a sewn bear, and this pumpkin and barely used any)
 
-<img src="2024-09-14-Pumpkin-Assets/Soft-Toy-Filling.jpg" alt="Polyester Fibrefill" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 However for your filling you can use scrap spare yarn, cut up fabric, or any other sort of stuffing you can find. Personally I'm using fibre fill because I work with stuffing a lot and it produces a pleasing shape but I would understand if you didn't want to purchase a bag of stuffing for this small pumpkin.
 
@@ -54,7 +54,7 @@ I hope you're still with me my darling– to recap all we've done so far is cast
 
 The finished pumpkin will have a [stockinette](https://www.youtube.com/watch?v=DZ4JQ7f6P-k&ab_channel=TheBlueMouseKnits) appearance so you will need to know 2 stitches for this pattern– a [knit stitch](https://www.youtube.com/watch?v=Egp4NRhlMDg&ab_channel=Sheep%26Stitch) and a [purl stitch](https://www.youtube.com/watch?v=7ePhLqw6HDM&ab_channel=Sheep%26Stitch).
 
-<img src="2024-09-14-Pumpkin-Assets/Pumpkin-Finished-2.jpg" alt="Finished knitted Pumpkin with stockinette stitching" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 Here you can see the stockinette effect that our finished pumpkin will have when finished :)
 
@@ -64,7 +64,7 @@ Now you've cast on you've done the hard bit ✨ (I'm just being encouraging ther
 
 In the end your flat pumpkin will look like this:
 
-<img src="2024-09-14-Pumpkin-Assets/Flat-Pumpkin.jpg" alt="Pumpkin on needles" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 > Can you see the 5 lines down the pumpkin?
 
@@ -74,7 +74,7 @@ These will form the markers for where the ribs will go and won't be seen on the 
 
 This is what the wrong side of a stockinette stitch looks like, can you see it's identical to a garter stitch– but don't get these confused! The other side of a stockinette stitch has pleasing V shapes as seen Here
 
-<img src="2024-09-14-Pumpkin-Assets/Casting-Off.jpg" alt="Stockinette right side" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 On this first row you'll knit the first stitch (this will be part of the seam when the flat pumpkin is sewn into a tube), so there's 72 stitches left to knit, then you'll repeat this pattern: purl (P) 11, knit (K) 1 (the 1 knitted stitch every 12 will form this line down the pattern that I mentioned). Once this pattern of P11, K1 is repeated 6 times all 72 remaining stitches will be used up. Your last stitch should be a knit stitch as the P11, K1 pattern should fit exactly into the remaining 72 stitches as 72 is divisible by 12.
 
@@ -92,7 +92,7 @@ This is going to sound **a little** scary, but and here me out, you need to brea
 
 You can now measure about 20cm of yarn and break that off from the yarn ball and thread it onto your darning needle, and with this you need to transfer the stitches from your knitting needle onto your darning needle with thread attached.
 
-<img src="2024-09-14-Pumpkin-Assets/Casting-Off.jpg" alt="Transferring stitches" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 I must apologise for not taking a good picture but essentially you'll have all your stitches on a long piece of yarn, from which you can then remove the needle and tie the thread in a loop to prevent any stitches falling off as you work.
 
@@ -104,13 +104,14 @@ Now fold your work right sides together (the right side is the side with all the
 
 Thread your cast on tail (that we crated at the beginning when casting on) onto your darning needle and create a vertical mattress stitch along the rough ends of the work to produce a tube.
 
-<img src="2024-09-14-Pumpkin-Assets/Mattress-Stitch.jpg" alt="Vertical Mattress Stitch" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
+
 
 Whilst I will eventually produce a tutorial for all these techniques, [here](https://www.youtube.com/watch?v=PS-sxbo6o_8&ab_channel=InterweaveCraft) is the best explanation of a vertical mattress stitch for beginners. Note in this tutorial she doesn't place her right sides together so you could ignore my previous instruction to fold right sides together if using this as a guide.
 
 Now you can turn your tube so that the right side is facing outwards as so
 
-<img src="2024-09-14-Pumpkin-Assets/Tube.jpg" alt="Tube" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 ##### Bottom & Stuffing
 
@@ -122,7 +123,7 @@ The yarn tail from the mattress seaming can be stuffed inside the pumpkin and ig
 
 You can trim any of these loose yarn tails but don't trim them too much! 5cm is okay to neaten up your project– since you're hiding them inside the pumpkin they won't be seen anyway ✨
 
-<img src="2024-09-14-Pumpkin-Assets/Soft-Toy-Filling.jpg" alt="Polyester Fibrefill" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 Now you can stuff your pumpkin to a firmness that feels good for you (but do remember we'll be a14ing the rib sections which will pull it in a little so try not to stuff it **too** full)
 
@@ -132,7 +133,7 @@ In order to produce the spheroid shape we're looking for in a pumpkin we need to
 
 Take your darning needle and a length of yarn (15cm should do) and on the top row sew between every second stitch like this;
 
-<img src="2024-09-14-Pumpkin-Assets/Top-Seam.jpg" alt="Seaming the top" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 You can see I'm going under every second V shape just below the cast on edge (the horizontal V shapes you can see is the cast on edge of the work). Keep going until you get back to the point you started sewing.
 
@@ -144,7 +145,7 @@ Pull on the two ends (gently!) to bring the top of the pumpkin in and form a bal
 
 If you have long lengths of yarn left trim these down to about 5cm from your knot and stuff inside the pumpkin.
 
-<img src="2024-09-14-Pumpkin-Assets/Finished-Almost.jpg" alt="Almost done!" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 ##### Ribs
 
@@ -158,7 +159,7 @@ You need to take a length of yarn (in length it needs to fit around your pumpkin
 
 Wrap this around the outside following the line of one of your rib markers, and back through the bottom hole and pull slightly tight so the rib becomes defined. Come back through the button hole (if your button has small holes just try your best and if needed don't go through the button every time) and out of the top hole, where you'll repeat with the opposite rib (this makes it more even). Keep doing this until all 6 ribs are formed and you're happy with the shape of your pumpkin.
 
-<img src="2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg" alt="Finished knitted Pumpkin" width="200" style="padding:20px; border-radius:15px; display:block;"/>
+
 
 Pull on the two ends and double knot them.
 
