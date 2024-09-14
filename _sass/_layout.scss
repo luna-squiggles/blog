@@ -160,9 +160,16 @@ table {
     }
 }
 
-img {
+/*img {
     width: 100%;
     margin: 0.5rem 0;
+}*/
+
+img {
+    max-width: 200px;
+    height: auto;
+    padding: 10px;
+    border-radius: 15px;
 }
 
 nav {
