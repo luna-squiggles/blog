@@ -8,7 +8,9 @@ tags: [knitting]
 
 It's September! It's Twilight season... it's pumpkin spice season... it's normal pumpkin season and that's why for this first fall post I'll be explaining how to knit a simple pumpkin.
 
-![Finished knitted Pumpkin](https://yoursite.netlify.app/post/2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg)
+![Finished knitted Pumpkin](https://blog.lunamustfa.com/posts/2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg)
+
+![Finished knitted Pumpkin](2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg)
 
 
 I'm going to explain this in some significant detail in the hopes that if my darling friend Emily wishes to follow this tutorial she may do so (I love u babe ❤️)
