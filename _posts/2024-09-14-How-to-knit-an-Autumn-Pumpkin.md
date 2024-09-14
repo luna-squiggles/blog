@@ -12,6 +12,13 @@ It's September! It's Twilight season... it's pumpkin spice season... it's normal
 
 ![Finished knitted Pumpkin](2024-09-14-Pumpkin-Assets/Pumpkin-Finished.jpg)
 
+![Finished knitted Pumpkin](/_images/Pumpkin-Finished.jpg)
+
+![Finished knitted Pumpkin](/images/Pumpkin-Finished.jpg)
+
+
+
+
 
 I'm going to explain this in some significant detail in the hopes that if my darling friend Emily wishes to follow this tutorial she may do so (I love u babe ❤️)
 
