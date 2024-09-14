@@ -1,4 +1,4 @@
----
+![Pumpkin-Finished](https://github.com/user-attachments/assets/d7044be2-34ec-42d3-957a-bac2fe749745)---
 layout: post
 title: How to knit an Autumn Pumpkin
 description: How to knit a cute pumpkin (for beginners 🥰)
@@ -15,6 +15,9 @@ It's September! It's Twilight season... it's pumpkin spice season... it's normal
 ![Finished knitted Pumpkin](/_images/Pumpkin-Finished.jpg)
 
 ![Finished knitted Pumpkin](/images/Pumpkin-Finished.jpg)
+
+![Finished knitted Pumpkin](/images/goose/Pumpkin-Finished.jpg)
+
 
 
 
