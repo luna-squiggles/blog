@@ -3,7 +3,7 @@ layout: post
 title: Visiting every Monopoly property in London
 description: How I visited all 24 Monopoly properties in London– and why I did it
 summary: How I visited all 24 Monopoly properties in London– and why I did it
-tags: [trips]
+tags: []
 ---
 
 Firstly I'd like to get something out of the way. In the description of this post I promised to explain **why** I chose to peruse this endeavour– however I have a confession to make.
@@ -12,7 +12,7 @@ I have no idea why I did this and I also think this has cost me at least £30 in
 
 ## Planning
 
-![me planning](/images/2024-09-14-Monopoly-Assets/Monopoly-Map-2.jpg)
+![me planning](/images/2024-09-15-Monopoly-Assets/Monopoly-Map-2.jpg)
 
 The first phase of this project– and one I'm *incredibly* glad I bothered with is the planning.
 
@@ -26,7 +26,7 @@ Following this I placed every property into a google maps list (which you can se
 
 Using the map I created I saw that most locations were densely clustered around Covent Garden and Leicester Square so I therefore created a route to walk from Covent station, and to finish at Leicester Square.
 
-![my route](/images/2024-09-14-Monopoly-Assets/Diary.jpg)
+![my route](/images/2024-09-15-Monopoly-Assets/Diary.jpg)
 
 ## The Project Begins
 
@@ -44,19 +44,19 @@ Of course in the end I had to make the journeys as I had decided to complete thi
 
 I chose to complete this project with a few of my friends on different days, and I did most of the work with my friend Georgina, and here's us at vine street;
 
-![me and Georgina](/images/2024-09-14-Monopoly-Assets/Vine-Street.jpg)
+![me and Georgina](/images/2024-09-15-Monopoly-Assets/Vine-Street.jpg)
 
 I also took the opportunity to visit both 221b Baker street as well as 187 New Gower Street which is where the BBC Sherlock adaptation was filmed. I'm glad I did this because for all my time in London I never took the time to do some of my more touristy endeavours.
 
-![Baker Street](/images/2024-09-14-Monopoly-Assets/Sherlock-2.jpg)
+![Baker Street](/images/2024-09-15-Monopoly-Assets/Sherlock-2.jpg)
 
 Ignore how windswept I look here – it was incredibly windy and I was not expecting it 😭
 
-![me at 187 New Gower](/images/2024-09-14-Monopoly-Assets/Sherlock.jpg)
+![me at 187 New Gower](/images/2024-09-15-Monopoly-Assets/Sherlock.jpg)
 
 I made some good effort with other properties the week after meeting Georgina– this time with another of my friends, Taj, and here's a photo Taj took of me in Mayfair;
 
-![me in Mayfair](/images/2024-09-14-Monopoly-Assets/Mayfair.jpg)
+![me in Mayfair](/images/2024-09-15-Monopoly-Assets/Mayfair.jpg)
 
 #### Posting my stories & closing thoughts
 
