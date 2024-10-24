@@ -37,7 +37,7 @@ Personally I (mostly for convenience) use a low-medium heat, but don't take the 
 
 The most important fact though is that scrambling eggs takes time and not to use too high a heat or your eggs with go dry.
 
-![Scrambling](/images/2024-10-22-Scrambled-Eggs-Assets/Eggs-Scrambled.jpg)
+![Scrambling](/images/2024-10-22-Scrambled-Eggs-Assets/Eggs-Scrambling.jpg)
 
 Lastly, and this is completely optional but I chose this particular morning to have some sardines with my eggs.
 
