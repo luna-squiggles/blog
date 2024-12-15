@@ -6,7 +6,7 @@ summary: Here's my honest thoughts on Hamilton in the west end
 tags: [books]
 ---
 
-Every performance of *Hamilton* is compared *to death* with the original Broadway cast's recorded performance. This is, somewhat, for good reason. Normally a play or musical is seen only live without a recorded version, leading to every individual's experience being a unique performance.
+Every performance of *Hamilton* is frequently compared with the original Broadway cast's recorded performance. This is, somewhat, for good reason. Normally a play or musical is seen only live without a recorded version, leading to every individual's experience being a unique performance.
 
 For *Hamilton*, however, many peoples first and most frequent exposure to the performance is through the recording of the original Broadway cast, lending a validity to the performance that suggests it is the *real* or *official* performance and so live performances are oft compared to it, both in reviews such as these, but also subconsciously by those in the audience who have seen the recorded performance.
 
