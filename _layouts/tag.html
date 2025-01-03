@@ -2,24 +2,28 @@
 layout: default
 ---
 
-<!--<article role="article" class="post"> -->
-<h1>Tag: #{{page.tag}}</h1>
-    <ul>
-      {% for post in site.posts %}
-      {% if post.tags contains page.tag %}
-        
-      	    <article role="article" class="card">
-		    <div class="meta">
-	      <h2><a href="{{ site.baseurl }}{{ post.url }}">
-	        {{ post.title }}
-	      </a></h2>
-	      <p>{{ post.summary }}</p>
-	        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time> 
-		    </div>
-	  
-	    </article>
-        
-      {% endif %}
-      {% endfor %}
-    </ul>
-</article>
+<article role="article" class="post">
+
+<div class: grid>
+	<h1>Tag: #{{page.tag}}</h1>
+	    <ul>
+	      {% for post in site.posts %}
+	      {% if post.tags contains page.tag %}
+	        
+	      	    <article role="article" class="card">
+			    <div class="meta">
+		      <h2><a href="{{ site.baseurl }}{{ post.url }}">
+		        {{ post.title }}
+		      </a></h2>
+		      <p>{{ post.summary }}</p>
+		        <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time> 
+			    </div>
+		  
+		    </article>
+	        
+	      {% endif %}
+	      {% endfor %}
+	    </ul>
+	</article>
+
+</div>
