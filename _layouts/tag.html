@@ -4,9 +4,10 @@ layout: default
 
 <article role="article" class="post">
 
+<h1>Tag: #{{page.tag}}</h1>
+
 <div class="grid">
-	<h1>Tag: #{{page.tag}}</h1>
-	    
+	
 	      {% for post in site.posts %}
 	      {% if post.tags contains page.tag %}
 	        
