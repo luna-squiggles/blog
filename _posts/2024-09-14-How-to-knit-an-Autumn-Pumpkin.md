@@ -3,7 +3,8 @@ layout: post
 title: How to knit an Autumn Pumpkin
 description: How to knit a cute pumpkin (for beginners 🥰)
 summary: How to knit a cute pumpkin (for beginners 🥰)
-tags: [knitting]
+tags: [knitting, projects]
+show_on_homepage: false
 ---
 
 It's September! It's Twilight season... it's pumpkin spice season... it's normal pumpkin season and that's why for this first fall post I'll be explaining how to knit a simple pumpkin.
