@@ -6,7 +6,7 @@ layout: default
 
 <div class="grid">
 	<h1>Tag: #{{page.tag}}</h1>
-	    <ul>
+	    
 	      {% for post in site.posts %}
 	      {% if post.tags contains page.tag %}
 	        
@@ -23,7 +23,7 @@ layout: default
 	        
 	      {% endif %}
 	      {% endfor %}
-	    </ul>
+	    
 	</article>
 
 </div>
