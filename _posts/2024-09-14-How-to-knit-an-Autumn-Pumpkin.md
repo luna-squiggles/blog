@@ -3,7 +3,7 @@ layout: post
 title: How to knit an Autumn Pumpkin
 description: How to knit a cute pumpkin (for beginners 🥰)
 summary: How to knit a cute pumpkin (for beginners 🥰)
-tags: [knitting, projects]
+tags: [knitting, all posts]
 show_on_homepage: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Can you make scrambled eggs with oat milk?
 description: Let's find out! – (it's yes)
 summary: Let's find out! – (it's yes)
-tags: [cooking, recipes]
+tags: [cooking, all posts]
 show_on_homepage: false
 ---
 

@@ -3,7 +3,8 @@ layout: post
 title: Hamilton West End Review
 description: Here's my honest thoughts on Hamilton in the west end
 summary: Here's my honest thoughts on Hamilton in the west end
-tags: [books]
+tags: [books, trips]
+show_on_homepage: false
 ---
 
 Every performance of *Hamilton* is frequently compared with the original Broadway cast's recorded performance. This is, somewhat, for good reason. Normally a play or musical is seen only live without a recorded version, leading to every individual's experience being a unique performance.

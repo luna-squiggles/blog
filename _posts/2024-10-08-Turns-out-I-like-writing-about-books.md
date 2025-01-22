@@ -3,7 +3,8 @@ layout: post
 title: More book reviews?
 description: Turns out I quite like writing about books...
 summary: Turns out I quite like writing about books...
-tags: [books]
+tags: [books, all posts]
+show_on_homepage: false
 ---
 
 I might make this a regular thing. I want to review 50 stories this calendar year... and I'm enjoying reading again
