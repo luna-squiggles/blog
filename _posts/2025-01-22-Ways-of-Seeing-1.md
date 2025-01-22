@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ways of Seeing: Part 1"
-description: My synopsis and thoughts on the first essay in John Berger’s *Ways of Seeing*.
-summary: My synopsis and thoughts on the first essay in John Berger’s *Ways of Seeing*.
+description: "My synopsis and thoughts on the first essay in John Berger’s *Ways of Seeing*".
+summary: "My synopsis and thoughts on the first essay in John Berger’s *Ways of Seeing*".
 tags: [essays, books, all posts]
 show_on_homepage: true
 ---
@@ -43,6 +43,10 @@ This shift also transformed how the meaning of a work is understood. “The mean
 I interpreted the first portion of this essay as suggesting that sight is the most fundamental way to experience, in the sense that, as a way to experience, seeing is the fullest way to experience reality—not the most accurate. In fact we must reconcile what we see to happen and what we know to happen.
 
 ![The Regents of the Old Men’s Almshouse](/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg)
+
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" width="200"/>
+
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" width="500"/>
 
 The idea that our own way of seeing impacts our perceptions is hard to disagree with, although, I think, broadly overlooked. The contextual lens through which we see art is evermore relevant—as we move increasingly further from the time of, to use Berger’s own example Frans Hals’, *The Regents of the Old Men’s Almshouse*. ([source (1)](https://artsandculture.google.com/asset/regents-of-the-old-men-s-alms-house-frans-hals/PgFyDj6nLAmfjQ?hl=en))
 
