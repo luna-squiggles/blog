@@ -42,24 +42,18 @@ This shift also transformed how the meaning of a work is understood. “The mean
 
 I interpreted the first portion of this essay as suggesting that sight is the most fundamental way to experience, in the sense that, as a way to experience, seeing is the fullest way to experience reality—not the most accurate. In fact we must reconcile what we see to happen and what we know to happen.
 
-![The Regents of the Old Men’s Almshouse](/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg){.wide-img}
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" style="max-width: 100%; height: auto; border-radius: 10px;"/>
 
-<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" max-width="200"/>
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" style="max-width: 100%; height: auto; border-radius: 50;"/>
 
-<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" max-width="500"/>
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" style="max-width: 100%; height: auto; border-radius: 50px;"/>
 
-<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" style="max-width: 100%; height: auto; border-radius: 10px;">
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" style="max-width: 100%; height: auto; border-radius: 50pt;"/>
 
 
 The idea that our own way of seeing impacts our perceptions is hard to disagree with, although, I think, broadly overlooked. The contextual lens through which we see art is evermore relevant—as we move increasingly further from the time of, to use Berger’s own example Frans Hals’, *The Regents of the Old Men’s Almshouse*. ([source (1)](https://artsandculture.google.com/asset/regents-of-the-old-men-s-alms-house-frans-hals/PgFyDj6nLAmfjQ?hl=en))
 
-
-![Western Art Movements](/images/2025-01-22-Ways-of-Seeing-Assets/Dates.png)
-
-img[src*="Dates"] {
-    max-width: 100%;
-    border-radius: 10px; // Optional
-}
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/Dates.png" alt="The Regents of the Old Men’s Almshouse" style="max-width: 100%; height: auto;"/>
 
 
 Analysis of paintings deals in fact, often focusing on the life of the artist, in an effort to provide much needed historical context. The most interpretive analysis touches on potential symbolic meaning—but never on how the piece should make you feel. There is no objective analysis on the emotional impact of art. This is no mistake as, after all, our own “way of seeing” is deeply impactful to how we understand art.
