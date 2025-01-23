@@ -172,6 +172,13 @@ img {
     border-radius: 15px;
 }
 
+.wide-img {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 nav {
     ul {
         list-style: none !important;
