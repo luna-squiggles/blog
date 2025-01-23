@@ -44,15 +44,23 @@ I interpreted the first portion of this essay as suggesting that sight is the mo
 
 ![The Regents of the Old Men’s Almshouse](/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg){.wide-img}
 
-<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" width="200"/>
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" max-width="200"/>
 
-<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" width="500"/>
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" alt="The Regents of the Old Men’s Almshouse" max-width="500"/>
+
+<img src="/images/2025-01-22-Ways-of-Seeing-Assets/The-Regents-of-the-Old-Mens-Almshouse.jpg" style="max-width: 100%; height: auto; border-radius: 10px;">
+
 
 The idea that our own way of seeing impacts our perceptions is hard to disagree with, although, I think, broadly overlooked. The contextual lens through which we see art is evermore relevant—as we move increasingly further from the time of, to use Berger’s own example Frans Hals’, *The Regents of the Old Men’s Almshouse*. ([source (1)](https://artsandculture.google.com/asset/regents-of-the-old-men-s-alms-house-frans-hals/PgFyDj6nLAmfjQ?hl=en))
 
-<div class="wide-img">
+
 ![Western Art Movements](/images/2025-01-22-Ways-of-Seeing-Assets/Dates.png)
-</div>
+
+img[src*="Dates"] {
+    max-width: 100%;
+    border-radius: 10px; // Optional
+}
+
 
 Analysis of paintings deals in fact, often focusing on the life of the artist, in an effort to provide much needed historical context. The most interpretive analysis touches on potential symbolic meaning—but never on how the piece should make you feel. There is no objective analysis on the emotional impact of art. This is no mistake as, after all, our own “way of seeing” is deeply impactful to how we understand art.
 
@@ -60,9 +68,9 @@ Herein lies the issue. We reside in the present, and our experiences in this pre
 
 This modern impression; a more secular, hedonistic reading is a result of mystification from Dalíesque imagery, reframing the painting as an exploration of the subconscious and distancing itself from its religious roots. This combined with a lack of familiarity with the symbolic language of mediaeval christianity masks a late 15th century understanding.
 
-<div class="wide-img">
+
 ![The Garden of Earthly Delights](/images/2025-01-22-Ways-of-Seeing-Assets/The-Garden-of-Earthly-Delights.jpg)
-</div>
+
 
 
 Berger’s statement “History always constitutes the relation between a present and its past” drew me to consider the importance of the ever-present effect of applying our own modern assumptions about beauty, form, taste, and society.
@@ -73,9 +81,9 @@ Contemporary analysts might suggest that increasing historical and cultural diff
 
 Whilst I can argue for this point, I think there is an almost conspiratorial angle to the idea. In the last century alone, significant social-political ideological changes have altered the lens through which we view art. This can be illustrated when discussing the feminist movement’s impact on Titian's 1538 commission *Venus of Urbino*. ([source (3)](https://artsandculture.google.com/asset/venus-of-urbino-tiziano-vecellio/bQGS8pnP5vr2Jg?hl=en))
 
-<div class="wide-img">
-![Venus of Urbino](/images/2025-01-22-Ways-of-Seeing-Assets/Venus-of-Urbino.jpg){.wide-img}
-</div>
+
+![Venus of Urbino](/images/2025-01-22-Ways-of-Seeing-Assets/Venus-of-Urbino.jpg)
+
 
 *Venus of Urbino* was likely commissioned as a celebration of marriage, love, and fertility. The reclining figure of Venus in a context that emphasised her beauty and sensuality—symbols of idealised femininity as well as her direct gaze and the intimate domestic setting articulate notions of marital intimacy and wifely virtues.
 
