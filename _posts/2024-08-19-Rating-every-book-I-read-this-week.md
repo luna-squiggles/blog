@@ -3,7 +3,7 @@ layout: post
 title: Rating every book I read this week
 description: Every book I read this week, rated
 summary: Every book I read this week, rated
-tags: [books, all posts]
+tags: [books, all-posts]
 show_on_homepage: false
 ---
 
