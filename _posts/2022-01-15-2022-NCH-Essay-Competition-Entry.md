@@ -7,7 +7,7 @@ tags: [essays, all-posts]
 show_on_homepage: true
 ---
 
-This was my entry into the 2022 NCH Essay Competition for which I was a finalist in the Art History Category. For readability a pdf is provided [here](/files/2022-01-15-NCH-Essay/Luna-Mustfa-2022-NCH-Essay-Competition-Entry.pdf)
+This was my entry into the 2022 NCH Essay Competition for which I was a finalist in the Art History Category. For increased readability a pdf is provided [here](/files/2022-01-15-NCH-Essay/Luna-Mustfa-2022-NCH-Essay-Competition-Entry.pdf).
 
 ## Is it time for museums and galleries to decolonise their collections, and if so, how should they go about it?
 
