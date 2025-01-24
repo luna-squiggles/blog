@@ -3,7 +3,7 @@ layout: post
 title: Visiting every Monopoly property in London
 description: How I visited all 24 Monopoly properties in London– and why I did it
 summary: How I visited all 24 Monopoly properties in London– and why I did it
-tags: [trips, all posts]
+tags: [trips, all-posts]
 show_on_homepage: false
 ---
 
