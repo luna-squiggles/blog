@@ -3,7 +3,7 @@ layout: post
 title: 2025 SPHS Undergraduate Essay Competition Entry
 description: My essay on Greek Revival Architecture and the American Perception of Ancient Greek Culture
 summary: My essay on Greek Revival Architecture and the American Perception of Ancient Greek Culture
-tags: [essays, all posts]
+tags: [essays, all-posts]
 show_on_homepage: true
 ---
 
