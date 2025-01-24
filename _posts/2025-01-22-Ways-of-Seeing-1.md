@@ -7,9 +7,9 @@ tags: [essays, books, all-posts]
 show_on_homepage: true
 ---
 
-This is my first post in a series of 24 posts, all reviews, of notable works on the history of art.
+I've been particularily enjoying thinking more deeply about the books I read and so have given myself the resolution to articulate my thoughts on one book every month. This is my first post in this series of posts on notable works relating to the history of art.
 
-These are my synopses and thoughts on John Berger’s *Ways of Seeing*. Although the work consists of 7 essays, I will not be discussing the 3 pictorial essays. This is the first of five parts.
+These are my synopses and thoughts on John Berger’s *Ways of Seeing*. Although the work consists of 7 essays, I will not be discussing the 3 pictorial essays. This is therefore the first of five parts.
 
 (Available at: https://www.ways-of-seeing.com/)
 
