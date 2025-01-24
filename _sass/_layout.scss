@@ -205,3 +205,8 @@ footer {
     margin: 1rem 0;
     text-align: center;
 }
+
+::selection {
+    color: #fff;
+    background-color: #b9a186;
+}
