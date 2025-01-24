@@ -3,7 +3,7 @@ layout: post
 title: More book reviews?
 description: Turns out I quite like writing about books...
 summary: Turns out I quite like writing about books...
-tags: [books, all posts]
+tags: [books, all-posts]
 show_on_homepage: false
 ---
 
