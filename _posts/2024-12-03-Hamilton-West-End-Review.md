@@ -3,7 +3,7 @@ layout: post
 title: Hamilton West End Review
 description: Here's my honest thoughts on Hamilton in the west end
 summary: Here's my honest thoughts on Hamilton in the west end
-tags: [books, trips]
+tags: [books, trips, all-posts]
 show_on_homepage: false
 ---
 
