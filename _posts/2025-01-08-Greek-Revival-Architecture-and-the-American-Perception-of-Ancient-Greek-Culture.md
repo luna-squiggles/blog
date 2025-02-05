@@ -53,95 +53,95 @@ Through Greek Revival, the United States not only established a visual identity 
 
 Greek Revival architecture serves as both a reflection of and a reinforcement for a cultural myth that links the American experiment to the ancient Greek polis. While these buildings act as enduring symbols of democracy and justice, they also highlight the power of architectural storytelling in shaping historical associations and national identity. By critically examining their symbolism, we can better understand how historical narratives are constructed – and how they can both inspire and obscure historical complexity.
 
-- University of Michigan (2021). Philhellenism.  
-  [University of Michigan, 2021](https://apps.lib.umich.edu/online-exhibits/exhibits/show/200th-anniversary-greek-war/philhellenism)  
+University of Michigan (2021). Philhellenism.  
+[University of Michigan, 2021](https://apps.lib.umich.edu/online-exhibits/exhibits/show/200th-anniversary-greek-war/philhellenism)  
 
-- ArchitectureStyles.org (2011). Greek Revival.  
-  [ArchitectureStyles.org, 2011](https://architecturestyles.org/greek-revival/)  
+ArchitectureStyles.org (2011). Greek Revival.  
+[ArchitectureStyles.org, 2011](https://architecturestyles.org/greek-revival/)  
 
-- Encyclopaedia Britannica (2023). Greek Revival.  
-  [Encyclopaedia Britannica, 2023](https://www.britannica.com/art/Greek-Revival)  
+Encyclopaedia Britannica (2023). Greek Revival.  
+[Encyclopaedia Britannica, 2023](https://www.britannica.com/art/Greek-Revival)  
 
-- Great American Treasures (2020). The Old is New Again: Greek Revival Architecture and Great American Treasures.  
-  [Great American Treasures, 2020](https://www.greatamericantreasures.org/the-old-is-new-again-greek-revival-architecture-and-great-american-treasures/)  
+Great American Treasures (2020). The Old is New Again: Greek Revival Architecture and Great American Treasures.  
+[Great American Treasures, 2020](https://www.greatamericantreasures.org/the-old-is-new-again-greek-revival-architecture-and-great-american-treasures/)  
 
-- British Museum. Architecture.  
-  [British Museum](https://www.britishmuseum.org/about-us/british-museum-story/architecture)  
+British Museum. Architecture.  
+[British Museum](https://www.britishmuseum.org/about-us/british-museum-story/architecture)  
 
-- Museumsinsel Berlin (2012). Altes Museum.  
-  [Museumsinsel Berlin, 2012](https://www.museumsinsel-berlin.de/en/buildings/altes-museum/)  
+Museumsinsel Berlin (2012). Altes Museum.  
+[Museumsinsel Berlin, 2012](https://www.museumsinsel-berlin.de/en/buildings/altes-museum/)  
 
-- White House. Thomas Jefferson.  
-  [White House](https://www.whitehouse.gov/about-the-white-house/presidents/thomas-jefferson/)  
+White House. Thomas Jefferson.  
+[White House](https://www.whitehouse.gov/about-the-white-house/presidents/thomas-jefferson/)  
 
-- National Park Service (2021). Lincoln Memorial Design and Individuals.  
-  [National Park Service, 2021](https://www.nps.gov/linc/learn/historyculture/lincoln-memorial-design-individuals.htm)  
+National Park Service (2021). Lincoln Memorial Design and Individuals.  
+[National Park Service, 2021](https://www.nps.gov/linc/learn/historyculture/lincoln-memorial-design-individuals.htm)  
 
-- National Archaeological Museum. Archaic Period.  
-  [National Archaeological Museum](https://www.namuseum.gr/en/collection/archaiki-periodos-2/#:~:text=The%20term%20Archaic%20was%20coined,(700%2D500%20BC))  
+National Archaeological Museum. Archaic Period.  
+[National Archaeological Museum](https://www.namuseum.gr/en/collection/archaiki-periodos-2/#:~:text=The%20term%20Archaic%20was%20coined,(700%2D500%20BC))  
 
-- The Metropolitan Museum of Art (2003). Greek Art in the Archaic Period.  
-  [The Metropolitan Museum of Art, 2003](https://www.metmuseum.org/toah/hd/grarc/hd_grarc.htm)  
+The Metropolitan Museum of Art (2003). Greek Art in the Archaic Period.  
+[The Metropolitan Museum of Art, 2003](https://www.metmuseum.org/toah/hd/grarc/hd_grarc.htm)  
 
-- National Archaeological Museum. Hellenistic Period.  
-  [National Archaeological Museum](https://www.namuseum.gr/en/collection/ellinistiki-periodos-3/#:~:text=During%20the%20Hellenistic%20period%2C%20namely,conquests%20of%20Alexander%20the%20Great)  
+National Archaeological Museum. Hellenistic Period.  
+[National Archaeological Museum](https://www.namuseum.gr/en/collection/ellinistiki-periodos-3/#:~:text=During%20the%20Hellenistic%20period%2C%20namely,conquests%20of%20Alexander%20the%20Great)  
 
-- Encyclopaedia Britannica (2024). Hellenistic Age.  
-  [Encyclopaedia Britannica, 2024](https://www.britannica.com/event/Hellenistic-Age)  
+Encyclopaedia Britannica (2024). Hellenistic Age.  
+[Encyclopaedia Britannica, 2024](https://www.britannica.com/event/Hellenistic-Age)  
 
-- The Metropolitan Museum of Art (2007). Hellenistic Art.  
-  [The Metropolitan Museum of Art, 2007](https://www.metmuseum.org/toah/hd/haht/hd_haht.htm)  
+The Metropolitan Museum of Art (2007). Hellenistic Art.  
+[The Metropolitan Museum of Art, 2007](https://www.metmuseum.org/toah/hd/haht/hd_haht.htm)  
 
-- Antigone Journal (2022). A Tour of London’s Greek Temples.  
-  [Antigone Journal, 2022](https://antigonejournal.com/2022/10/tour-london-greek-temples/)  
+Antigone Journal (2022). A Tour of London’s Greek Temples.  
+[Antigone Journal, 2022](https://antigonejournal.com/2022/10/tour-london-greek-temples/)  
 
-- Ulster Architectural Heritage (2021). Old Museum Building.  
-  [Ulster Architectural Heritage, 2021](https://www.ulsterarchitecturalheritage.org.uk/case-studies/old-museum-building/)  
+Ulster Architectural Heritage (2021). Old Museum Building.  
+[Ulster Architectural Heritage, 2021](https://www.ulsterarchitecturalheritage.org.uk/case-studies/old-museum-building/)  
 
-- Digital Library of Nashville (2020). Historic Sites in Nashville.  
-  [Digital Library of Nashville, 2020](https://digital.library.nashville.org/digital/collection/nr/id/18/)  
+Digital Library of Nashville (2020). Historic Sites in Nashville.  
+[Digital Library of Nashville, 2020](https://digital.library.nashville.org/digital/collection/nr/id/18/)  
 
-- National Park Service (2024). Second Bank of the United States.  
-  [National Park Service, 2024](https://www.nps.gov/inde/learn/historyculture/places-secondbank.htm)  
+National Park Service (2024). Second Bank of the United States.  
+[National Park Service, 2024](https://www.nps.gov/inde/learn/historyculture/places-secondbank.htm)  
 
-- Supreme Court of the United States (2014). Building History.  
-  [Supreme Court of the United States, 2014](https://www.supremecourt.gov/about/buildinghistory.aspx)  
+Supreme Court of the United States (2014). Building History.  
+[Supreme Court of the United States, 2014](https://www.supremecourt.gov/about/buildinghistory.aspx)  
 
-- Architect of the Capitol (2023). Corinthian Columns.  
-  [Architect of the Capitol, 2023](https://www.aoc.gov/explore-capitol-campus/art/corinthian-columns)  
+Architect of the Capitol (2023). Corinthian Columns.  
+[Architect of the Capitol, 2023](https://www.aoc.gov/explore-capitol-campus/art/corinthian-columns)  
 
-- Philadelphia Buildings (2002). Second Bank of the United States.  
-  [Philadelphia Buildings, 2002](https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25248)  
+Philadelphia Buildings (2002). Second Bank of the United States.  
+[Philadelphia Buildings, 2002](https://www.philadelphiabuildings.org/pab/app/ar_display.cfm/25248)  
 
-- Ancient Philosophy (2019). Democracy, Justice, and Equality in Ancient Greece.  
-  [Ancient Philosophy, 2019](https://ndpr.nd.edu/reviews/democracy-justice-and-equality-in-ancient-greece-historical-and-philosophical-perspectives/)  
+Ancient Philosophy (2019). Democracy, Justice, and Equality in Ancient Greece.  
+[Ancient Philosophy, 2019](https://ndpr.nd.edu/reviews/democracy-justice-and-equality-in-ancient-greece-historical-and-philosophical-perspectives/)  
 
-- JSTOR (2017). Greek History and Culture.  
-  [JSTOR, 2017](https://www.jstor.org/stable/4282697)  
+JSTOR (2017). Greek History and Culture.  
+[JSTOR, 2017](https://www.jstor.org/stable/4282697)  
 
-- Jefferson, T. (1784). Letter to Giovanni Fabbroni.  
-  [Jefferson, 1784](https://founders.archives.gov/documents/Jefferson/01-08-02-0534)  
+Jefferson, T. (1784). Letter to Giovanni Fabbroni.  
+[Jefferson, 1784](https://founders.archives.gov/documents/Jefferson/01-08-02-0534)  
 
-- Hesiod (c. 700 BCE). Works and Days.  
-  [Hesiod, c. 700 BCE](https://chs.harvard.edu/primary-source/hesiod-works-and-days-sb/)  
+Hesiod (c. 700 BCE). Works and Days.  
+[Hesiod, c. 700 BCE](https://chs.harvard.edu/primary-source/hesiod-works-and-days-sb/)  
 
-- National Archives (1776). Declaration of Independence Transcript.  
-  [National Archives, 1776](https://www.archives.gov/founding-docs/declaration-transcript)  
+National Archives (1776). Declaration of Independence Transcript.  
+[National Archives, 1776](https://www.archives.gov/founding-docs/declaration-transcript)  
 
-- Jefferson, T. (1809). Letter to John Adams.  
-  [Jefferson, 1809](https://founders.archives.gov/documents/Jefferson/03-03-02-0258#:~:text=I%20had%2C%20with%20the%20world,only1%20at%20it's%20errors)  
+Jefferson, T. (1809). Letter to John Adams.  
+[Jefferson, 1809](https://founders.archives.gov/documents/Jefferson/03-03-02-0258#:~:text=I%20had%2C%20with%20the%20world,only1%20at%20it's%20errors)  
 
-- Federal Reserve Bank of Minneapolis (2019). History of Central Banking.  
-  [Federal Reserve Bank of Minneapolis, 2019](https://www.minneapolisfed.org/about-us/our-history/history-of-central-banking#:~:text=The%20First%20Bank%20of%20the%20United%20States%3A%201791%2D1811,government%20on%20sound%20financial%20footing)  
+Federal Reserve Bank of Minneapolis (2019). History of Central Banking.  
+[Federal Reserve Bank of Minneapolis, 2019](https://www.minneapolisfed.org/about-us/our-history/history-of-central-banking#:~:text=The%20First%20Bank%20of%20the%20United%20States%3A%201791%2D1811,government%20on%20sound%20financial%20footing)  
 
-- Architect of the Capitol (2022). Thomas Jefferson Building.  
-  [Architect of the Capitol, 2022](https://www.aoc.gov/explore-capitol-campus/buildings-grounds/library-of-congress/thomas-jefferson-building)  
+Architect of the Capitol (2022). Thomas Jefferson Building.  
+[Architect of the Capitol, 2022](https://www.aoc.gov/explore-capitol-campus/buildings-grounds/library-of-congress/thomas-jefferson-building)  
 
-- Perseus Digital Library (2010). Greek History.  
-  [Perseus Digital Library, 2010](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0009%3Achapter%3D9%3Asection%3D3%3Asubsection%3D1)  
+Perseus Digital Library (2010). Greek History.  
+[Perseus Digital Library, 2010](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0009%3Achapter%3D9%3Asection%3D3%3Asubsection%3D1)  
 
-- Dergipark (2023). Greek Influence on Roman Society.  
-  [Dergipark, 2023](https://dergipark.org.tr/tr/download/article-file/2793784)  
+Dergipark (2023). Greek Influence on Roman Society.  
+[Dergipark, 2023](https://dergipark.org.tr/tr/download/article-file/2793784)  
 
 - Antiquitatem (2013). Graecia Capta: Greek Culture in Rome.  
   [Antiquitatem, 2013](https://www.antiquitatem.com/en/graecia-capta-greek-culture-quignard/)  
