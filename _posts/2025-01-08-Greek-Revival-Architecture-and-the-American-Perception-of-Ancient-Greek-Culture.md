@@ -7,6 +7,8 @@ tags: [essays, all-posts]
 show_on_homepage: true
 ---
 
+This was my entry into the 2025 SPHS Undergraduate Essay Competition. For increased readability a pdf is provided [here](/files/2025-01-08-Greek-Revival-Essay/Luna-Mustfa-2025-SPSH-Essay-Competition-Entry.pdf).
+
 ## Greek Revival Architecture and the American Perception of Ancient Greek Culture
 
 Ancient Greek culture has always fascinated western post-classical society, to the point that there is a word to describe this admiration– philhellenism. A philhellene is an admirer of Greece or Greek culture ([Merriam-Webster, 2024](https://www.merriam-webster.com/dictionary/philhellene)) (from Greek *philos*, meaning beloved, and *Hellēnikos*, meaning Greek) ([Harper, 2020](https://www.etymonline.com/word/philhellene)).
