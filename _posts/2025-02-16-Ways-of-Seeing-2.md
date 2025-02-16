@@ -64,7 +64,8 @@ It is in this vein that historical visual culture contributed to systemic gender
 
 (2) Duncan, C. (1993). *The Aesthetics of Power: Essays in Critical Art History*. Available at: https://archive.org/details/aestheticsofpowe0000dunc/mode/2up (Accessed: 16 February 2025)
 
-(3) Markowitz, S., Solomon-Godeau, A., Cohan, S. (2001). *Male Trouble: A Crisis in Representation*. Available at: https://www.researchgate.net/publication/324327819_Male_Trouble_A_Crisis_in_Representation (Accessed: 16 February 2025)
+(3) Markowitz, S., Solomon-Godeau, A., Cohan, S. (2001). *Male Trouble: A Crisis in Representation*. Available at: https://www.researchgate.net/publication/
+324327819_Male_Trouble_A_Crisis_in_Representation (Accessed: 16 February 2025)
 
 (4) *Painting Colonial Culture: Ingres's La Grande Odalisque*. Available at: https://smarthistory.org/painting-colonial-culture-ingress-la-grande-odalisque/ (Accessed: 16 February 2025)
 
