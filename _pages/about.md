@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
-## hiya, my name is luna 🥰
+## hiya, my name is Luna Mustfa
 
-Check out my blog – it's amazing how little I write on it.
+I'm a first year undergraduate studying Computer Science at Royal Holloway, Univeristy of London.
+
+My interests are in developing interesting web applications, writing about paintings, and visiting coffee shops.
+
+My website -> lunamustfa.com
