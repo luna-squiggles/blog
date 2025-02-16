@@ -13,7 +13,7 @@ show_on_homepage: true
 
 Men and women have a different kind of social presence. A man’s presence is always (outwardly) directed toward a power which he exercises on others, whereas a woman’s presence expresses her own (inward) attitude to herself. A man’s presence suggests what he is capable of doing to or for others, whereas a woman’s defines what can or cannot be done to her, revealing an asymmetry in perception.
 
-A woman’s self is divided into two distinct parts. She is, alongside herself, “accompanied by her own image of herself”—the surveyor and the surveyed. This surveyor in herself is male, through whom she turns herself into an object—a sight. This internalised male gaze shapes her behaviour and self-perception. Men look at women and women watch themselves being looked at. This dynamic reinforces the idea that women exist to be observed, while men retain the power to act.
+A woman’s self is divided into two distinct parts. She is, alongside herself, “accompanied by her own image of herself”—the surveyor and the surveyed. This surveyor in herself is male, through whom she turns herself into an object—a sight. This internalised male gaze shapes her behaviour and self-perception. Men look at women, and women watch themselves being looked at. This dynamic reinforces the idea that women exist to be observed, while men retain the power to act.
 
 Western artistic tradition reflects this divide. Nude paintings depict a female subject aware of being seen. She is not merely naked—she is presented as an object for the spectator’s gaze. Her nudity is not an expression of self but a performance for an external viewer.
 
@@ -23,13 +23,12 @@ Even when a male lover appears in these paintings, the woman rarely acknowledges
 
 Broadly, the principal protagonist is not depicted; he exists outside the canvas as the clothed spectator, to whom the scene is addressed. This absence, paradoxically, affirms his presence, with the painting’s entire composition structured around his gaze.
 
-Nudity, then, is not a state of pure being but a form of disguise. The woman is adorned with her own exposure, her nudity crafted to feed an appetite rather than express individuality.
+Nudity, then, is not so much a state of being being but a form of disguise. The woman is adorned with her own exposure, her nudity crafted to feed an appetite rather than express individuality.
 
 <img src="/images/2025-02-16-Ways-of-Seeing-3-Assets/Les-Oreades.jpg" alt="Les Oréades" style="max-width: 100%; height: auto; border-radius: 20px;"/>
 
 
-One can observe this reality in nineteenth-century academic art, such as William Bouguereau’s *Les Oréades*, where nude paintings serve to reaffirm male identity and dominance.  
-They function as a reassurance of male authority, reinforcing traditional gender roles, and reminding men of their position.
+One can observe this reality in nineteenth-century academic art, such as William Bouguereau’s *Les Oréades*, where nude paintings serve to reaffirm male identity and dominance. They function as a reassurance of male authority, reinforcing traditional gender roles, and reminding men of their position.
 
 The tradition of nudity in European oil painting presents a contradiction. It is often framed as an “admirable expression of the European humanist spirit,” a celebration of individualism. Yet, while the artist asserts his own subjectivity, the female figure is denied hers—she exists solely as an aesthetic object.
 
@@ -57,8 +56,7 @@ In part this illustrates how historically objectification of women in art parall
 
 Contemporary underrepresentation stems, at least in part, from these nineteenth-century norms, men are associated with “agency” and women with “passivity”—forming modern barriers in leadership. ([source (5)](https://books.google.co.uk/books/about/Through_the_Labyrinth.html?id=b2kf_B_4f0kC&redir_esc=y))
 
-This analysis reveals how nineteenth-century art played a part in naturalising male dominance in public spheres. By positioning women as passive objects for visual consumption, these “cult of the nude” works not only reinforced gendered power imbalances in the nineteenth century but also acted as foundational templates for contemporary media representations, where remnants of this patriarchal gaze continue to inform societal norms.  
-It is in this vein that historical visual culture contributed to systemic gender biases that persist today, and although they exist in largely different forms, there are stark similarities.
+This analysis reveals how nineteenth-century art played a part in naturalising male dominance in public spheres. By positioning women as passive objects for visual consumption, these “cult of the nude” works not only reinforced gendered power imbalances in the nineteenth century but also acted as foundational templates for contemporary media representations, where remnants of this patriarchal gaze continue to inform societal norms. It is in this vein that historical visual culture contributed to systemic gender biases that persist today, and although they exist in largely different forms, there are stark similarities.
 
 (1) Pollock, G. (1988). *Vision and Difference: Femininity, Feminism, and Histories of Art*. Available at: https://archive.org/details/vision-and-difference-by-griselda-pollock/page/n51/mode/2up (Accessed: 16 February 2025)
 
