@@ -7,6 +7,6 @@ title: About
 
 I'm a first year undergraduate studying Computer Science at Royal Holloway, Univeristy of London.
 
-My interests are in developing interesting web applications, writing about paintings, and visiting coffee shops.
+My interests are in developing responsive & functional web applications, writing about paintings, and visiting coffee shops.
 
-My website -> lunamustfa.com
+My website -> [lunamustfa.com](lunamustfa.com)
