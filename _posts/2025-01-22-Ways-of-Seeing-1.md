@@ -16,7 +16,7 @@ These are my synopses and thoughts on John Berger’s *Ways of Seeing*. Although
 
 ## 1: “If we can see the present clearly enough, we shall ask the right questions of the past”
 
-Berger’s first essay is itself based on *The Work of Art in the Age of Mechanical Reproduction* by Walter Benjamin. (Available at: [https://web.mit.edu/allanmc/www/benjamin.pdf](https://web.mit.edu/allanmc/www/benjamin.pdf)
+Berger’s first essay is itself based on *The Work of Art in the Age of Mechanical Reproduction* by Walter Benjamin. (Available at: [https://web.mit.edu/allanmc/www/benjamin.pdf](https://web.mit.edu/allanmc/www/benjamin.pdf))
 
 ### Synopsis:
 
