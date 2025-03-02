@@ -13,6 +13,7 @@ These are my synopses and thoughts on John Berger’s *Ways of Seeing*. Although
 
 (Available at: [https://www.ways-of-seeing.com/](https://www.ways-of-seeing.com/))
 
+For increased readability a pdf containing all three parts is provided here [here](/files/2025-03-01-Ways-of-Seeing/Luna-Mustfa-Ways-of-Seeing.pdf).
 
 ## 1: “If we can see the present clearly enough, we shall ask the right questions of the past”
 
