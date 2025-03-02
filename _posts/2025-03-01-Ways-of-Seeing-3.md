@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ways of Seeing: Part 3"
-description: "My synopsis and thoughts on the fifth essay in John Berger’s Ways of Seeing".
-summary: "My synopsis and thoughts on the fifth essay in John Berger’s Ways of Seeing".
+description: My synopsis and thoughts on the fifth essay in John Berger’s Ways of Seeing.
+summary: My synopsis and thoughts on the fifth essay in John Berger’s Ways of Seeing.
 tags: [essays, books, all posts]
 show_on_homepage: true
 ---
