@@ -7,6 +7,14 @@ tags: [essays, books, all-posts]
 show_on_homepage: true
 ---
 
+I've been particularily enjoying thinking more deeply about the books I read and so have given myself the resolution to articulate my thoughts on one book every month. This is my first post in this series of posts on notable works relating to the history of art.
+
+These are my synopses and thoughts on John Berger’s *Ways of Seeing*. Although the work consists of seven essays, I will not be discussing the three pictorial essays, or the seventh advertising essay. This is therefore the first of four parts.
+
+(Available at: [https://www.ways-of-seeing.com/](https://www.ways-of-seeing.com/))
+
+For increased readability a pdf containing all three parts is provided here [here](/files/2025-03-01-Ways-of-Seeing/Luna-Mustfa-Ways-of-Seeing.pdf).
+
 ## 3: “To be nude is to be seen naked by others and yet not recognised for oneself”
 
 ### Synopsis:
