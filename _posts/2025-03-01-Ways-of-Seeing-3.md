@@ -39,7 +39,7 @@ This is the contradiction which impacts religious paintings of the tradition. Th
 
 Thus, oil painting, while capable of illustrating religious themes, struggles to maintain their integrity due to its inherent materialism. The spiritual is rendered into something that is both visually and economically desirable, creating a contradiction between religion and material consumption.
 
-###Thoughts:
+### Thoughts:
 
 Early in the chapter Berger discusses the impact of new attitudes to property and exchange, the new power of capital and how the role oil painting took on could not have been found in any other visual art form. I’d first like to elaborate on the context of the sixteenth-century by discussing the “new attitudes to property and exchange” to which Berger refers.
 
