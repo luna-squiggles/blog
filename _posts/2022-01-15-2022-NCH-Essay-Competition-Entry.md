@@ -3,7 +3,7 @@ layout: post
 title: 2022 NCH Essay Competition Entry
 description: My essay responding to the question "Is it time for museums and galleries to decolonise their collections, and if so, how should they go about it?"
 summary: My essay responding to the question "Is it time for museums and galleries to decolonise their collections, and if so, how should they go about it?"
-tags: [essays, all-posts]
+tags: [essays]
 show_on_homepage: true
 ---
 
