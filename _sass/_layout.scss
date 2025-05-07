@@ -128,9 +128,12 @@ header, main {
 }
 
 .tags-page {
-    font-family: "IBM Plex Mono", monospace;
-	colour: #373F47;
-	font-weight: 400;
+		background: #F1E2D8;
+	padding: 2rem 3rem;
+	-webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+	color: #000000;
+	
 
     .tags-intro {
         margin-bottom: 2rem;
