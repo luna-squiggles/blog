@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article role="article" class="post">
+<article role="article" class="post {% if page.class %}{{ page.class }}{% endif %}">
   {{ content }}
 </article>
 
