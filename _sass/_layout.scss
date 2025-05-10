@@ -127,7 +127,7 @@ header, main {
   flex-direction: column;
 }
 
-.tags-page {
+&.tags-page, &.about-page {
 		background: #F1E2D8;
 	padding: 2rem 3rem;
 	-webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
