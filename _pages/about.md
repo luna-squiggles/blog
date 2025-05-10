@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
+class: tags-page
 ---
-
-<span style="font-family: 'IBM Plex Mono', monospace;">
   
 ## hiya, my name is Luna Mustfa
 
@@ -13,5 +12,4 @@ My interests are in developing responsive & functional web applications, writing
 
 My website -> [lunamustfa.com](https://lunamustfa.com/)
 
-</span>
 
