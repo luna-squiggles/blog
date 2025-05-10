@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-class: about-page
 ---
   
 ## hiya, my name is Luna Mustfa
