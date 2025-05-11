@@ -1,9 +1,3 @@
-@import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', 'Helvetica', sans-serif; font-display: swap; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', 'Helvetica', sans-serif; }
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=IBM+Plex+Mono:wght@400;700&display=swap');
 
 html {
@@ -40,9 +34,9 @@ html {
     font-family: 'IBM Plex Mono', monospace;
 }
 
-body .page {
+
+[layout="page"] {
     font-family: 'IBM Plex Mono', monospace !important;
     font-size: 18px;
     line-height: 1.6;
 }
-
