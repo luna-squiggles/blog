@@ -13,6 +13,17 @@ html {
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
 
+html {
+    font-family: 'IBM Plex Mono', monospace;
+    font-display: swap;
+}
+
+@supports (font-variation-settings: normal) {
+    html {
+        font-family: 'IBM Plex Mono', monospace;
+    }
+}
+
 .post {
     font-family: 'Century Schoolbook', serif;
     font-size: 18px;
