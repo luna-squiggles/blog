@@ -40,8 +40,8 @@ html {
     font-family: 'IBM Plex Mono', monospace;
 }
 
-.page {
-    font-family: 'IBM Plex Mono', monospace;
+body .page {
+    font-family: 'IBM Plex Mono', monospace !important;
     font-size: 18px;
     line-height: 1.6;
 }
