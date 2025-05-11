@@ -13,17 +13,6 @@ html {
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
 
-html {
-    font-family: 'IBM Plex Mono', monospace;
-    font-display: swap;
-}
-
-@supports (font-variation-settings: normal) {
-    html {
-        font-family: 'IBM Plex Mono', monospace;
-    }
-}
-
 .post {
     font-family: 'Century Schoolbook', serif;
     font-size: 18px;
@@ -35,8 +24,13 @@ html {
 }
 
 
-[layout="page"] {
+.page {
     font-family: 'IBM Plex Mono', monospace !important;
     font-size: 18px;
     line-height: 1.6;
+    background: #F1E2D8;
+    padding: 2rem 3rem;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+    box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+    color: #815355;
 }
