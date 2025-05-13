@@ -5,14 +5,16 @@ title: About
   
 ## Hiya, my name is Luna Mustfa
 
-I work in an MP's office where I build digital transparency tools, work on interesting interventions, and complain about how hot our office 
+I work in an MP's office where I build digital transparency tools, work on interesting interventions, and complain about how hot our office is!
 
 My interests are in developing responsive & functional web applications, writing about paintings, visiting coffee shops, and talking about housing policy.
 
-There's lots of other things I enjoy~ maybe you like <a href='.'><span id="word"></span></a><span id="emoji"></span> too?
+There's lots of other things I enjoy~ maybe you like <a href="#" id="interest-link"><span id="word"></span></a><span id="emoji"></span> too?
 
 My website -> [lunamustfa.com](https://lunamustfa.com/)
 
+
+{% raw %}
 <script>
 // Cache DOM elements and constants
 const INTERESTS = [
@@ -29,7 +31,7 @@ const INTERESTS = [
 // Cache DOM elements
 const wordElement = document.getElementById('word');
 const emojiElement = document.getElementById('emoji');
-const wordLink = document.querySelector('a[href="."]');
+const wordLink = document.getElementById('interest-link');
 
 // Get or initialise indices from localStorage
 let currentIndex = parseInt(localStorage.getItem('interestIndex') || 0);
@@ -63,3 +65,5 @@ document.addEventListener('DOMContentLoaded', () => {
     updateDisplay();
 });
 </script>
+{% endraw %}
+
