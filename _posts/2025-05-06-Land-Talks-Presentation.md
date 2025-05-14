@@ -38,7 +38,7 @@ This reality was such that in feudal Europe, land was held by titled lords and w
 
 Bruegel’s work depicts a group of peasants harvesting wheat, labouring together to sustain an estate. Here he presents the land as a collective site of production, where the value on the land arises from communal labour. The absence of any enclosed plots here highlights the peasantry’s role within a broader feudal order—the land here is a shared, hierarchical resource, serving the manors needs. In contrast to later paintings where land would serve to display states, here it serves as a site of survival for the peasants.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Luttrel-Psalter.png" alt="Luttrel Psalter" style="max-width: 100%; height: auto; border-radius: 20px;"/>
+<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Luttrel-Pslater.png" alt="Luttrel Psalter" style="max-width: 100%; height: auto; border-radius: 20px;"/>
 [Anonymous, Scene from the *Luttrell Psalter*, c. 1325–1340](https://blogs.bl.uk/digitisedmanuscripts/2013/09/the-luscious-luttrell-psalter.html)
 Illuminated manuscript on parchment, British Library, London
 
