@@ -9,7 +9,7 @@ show_on_homepage: true
 
 Last week I had the please of giving a lightning talk on the representation of land in oil painting at the [inaugural](https://lu.ma/mm4dg8fy) [Land Talks](https://lu.ma/landtalks) event. I focused on the central, quite compelling, question of “What can we learn about how land has been perceived from oil paintings?”
 
-However, as is the nature of a lightning talk, I only spoke for a few minutes (slides here)—presenting the interesting challenge of condensing 300 years of art and land policy into quite a short summary.
+However, as is the nature of a lightning talk, I only spoke for a few minutes (slides [here](/files/2025-05-06-Land-Talks-Presentation))—presenting the interesting challenge of condensing 300 years of art and land policy into quite a short summary.
 
 Naturally, this led to my research notes having a large chunk of what I would describe as interesting context removed, and as such inspired this decision to write this post, in which I’d like to walk you through four paintings that track the depiction of land; from a shared subsistence resource, to a broadly unobtainable signal of class divide, and the history that took place in between.
 
