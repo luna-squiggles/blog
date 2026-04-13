@@ -1,0 +1,45 @@
+/* Cosy base + accent set */
+$bg-page: #fffdf7;
+$text-body: #06070e;
+$text-strong: #06070e;
+
+/* Accents: #6F9283 sage, #CE796B coral, #495867 slate, #C18C5D tan */
+$accent-sage: #6f9283;
+$accent-slate: #495867;
+$accent-clay: #ce796b;
+$accent-mist: #c18c5d;
+
+/* Card tiles: full accent colours (text on cards uses $card-text-on-tile) */
+$card-bg-sage: #6f9283;
+$card-bg-clay: #ce796b;
+$card-bg-slate: #495867;
+$card-bg-sand: #c18c5d;
+$card-bg-default: #6f9283;
+
+$card-text-on-tile: #fffdf7;
+
+/* Lifted panels (notes, static pages, tags) */
+$panel-bg: #fffdf7;
+
+/* Inline elements */
+$blockquote-bg: #e8f0ec;
+$code-bg: #e8eaee;
+$rule-color: #c9bfb4;
+$rule-muted: #a8a099;
+$table-border: #8e96a0;
+
+/* Wide viewport: newspaper columns + reading-mode toggle. */
+$bp-newspaper: 60rem;
+
+/* Single-column reading mode: text measure (must match horizontal padding on `.post:not(.note)`). */
+$post-single-column-max-width: 48rem;
+$post-single-column-padding-x: 3rem;
+/* Header/main width when single-column mode is on — text block + side padding. */
+$post-single-column-outer-width: calc(#{$post-single-column-max-width} + 2 * #{$post-single-column-padding-x});
+/* Figures/images in that mode: slightly inset, centred. */
+$post-single-column-figure-max: 82%;
+
+/* Paper texture (body::before): layer-opacity × cream wash × background-blend-mode. Tuned defaults below. */
+$paper-texture-layer-opacity: 0.2;
+$paper-texture-wash: 0.78;
+$paper-bg-blend: soft-light; /* multiply | overlay | soft-light | normal */

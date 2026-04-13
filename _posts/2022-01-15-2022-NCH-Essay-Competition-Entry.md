@@ -35,7 +35,7 @@ Benin had asked for the return of the Bronzes to be postponed due to a lack of a
 
 To conclude, Europe has a long history of colonialism, a history that has allowed for the accumulation of many artefacts from around the globe. Museums across Europe that are now the guardians of this looted, rich history need to acknowledge their unique position and begin to make amends for the trauma and suffering that fills their past. Whilst this process of making amends, decolonisation, will not be an easy one, it is the responsibility not only of the museums but society to hold them to this responsibility. The world is changing for the better in many areas, and museums must not be left behind in the fight for equality.
 
-
+---
 
 [Heal, S. (2019, July 3). Who’s afraid of decolonisation?](https://www.museumsassociation.org/museums-journal/opinion/2019/07/03072019-whos-afraid-of-decolonisation-policy-column/)
 

@@ -4,13 +4,24 @@ layout: default
 
 
 
-<article role="article" class="post">
+<article role="article" class="post{% if page.newspaper == false %} post--no-newspaper{% endif %}{% if page.post_variant %} post--{{ page.post_variant }}{% endif %}">
+  <nav class="post-back-nav" aria-label="Back">
+    {% include smart-back.html %}
+  </nav>
 	<div class="post-meta">
   <h1>{{ page.title }}</h1>
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
 	</div>
 
+  {% unless page.newspaper == false %}
+    {% if page.show_reading_toggle == true %}
+      {% include post-reading-toggle.html %}
+    {% endif %}
+  {% endunless %}
+
+  <div id="post-prose" class="post-prose{% unless page.newspaper == false %} post-prose--newspaper{% endunless %}">
   {{ content }}
+  </div>
   
   <br>
   
@@ -20,10 +31,16 @@ layout: default
       <a href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.
     </p>
                    
- <hr style="height:2px; border:none; margin: 2rem 0; background-color:#ffffff;">
+ <hr class="post-end-rule" aria-hidden="true">
 
 
-  {% disqus %}
+  {% unless page.newspaper == false %}
+    {% if page.show_reading_toggle == true %}
+      {% include post-reading-toggle-script.html %}
+    {% endif %}
+  {% endunless %}
+
+  {% include disqus_embed.html %}
   
 </article>
 

@@ -1,0 +1,41 @@
+{% comment %}Back link: href set from document.referrer (notes, posts, home, dated post URLs).{% endcomment %}
+<a href="{{ '/' | relative_url }}" class="post-back js-smart-back" data-home="{{ '/' | relative_url }}" data-notes="{{ '/notes/' | relative_url }}" data-posts="{{ '/posts/' | relative_url }}">Back</a>
+<script>
+(function () {
+  var a = document.querySelector(".js-smart-back");
+  if (!a) return;
+  var home = a.getAttribute("data-home") || "/";
+  var notes = a.getAttribute("data-notes") || "/notes/";
+  var posts = a.getAttribute("data-posts") || "/posts/";
+  var ref = document.referrer;
+  if (!ref) return;
+  try {
+    var from = new URL(ref);
+    if (from.origin !== location.origin) return;
+    var p = from.pathname;
+    var base = "{{ site.baseurl }}";
+    if (base && p.indexOf(base) === 0) {
+      p = p.slice(base.length);
+      if (!p || p === "") p = "/";
+    }
+    if (p === "/" || p === "/index.html") {
+      a.setAttribute("href", home);
+      return;
+    }
+    if (p.indexOf("/notes") === 0) {
+      a.setAttribute("href", notes);
+      return;
+    }
+    if (p.indexOf("/posts") === 0) {
+      a.setAttribute("href", posts);
+      return;
+    }
+    var looksLikePost = /\/\d{4}\/\d{2}\/\d{2}\//.test(p);
+    if (looksLikePost) {
+      a.setAttribute("href", posts);
+      return;
+    }
+    a.setAttribute("href", home);
+  } catch (e) {}
+})();
+</script>

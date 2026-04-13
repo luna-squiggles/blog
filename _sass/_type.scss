@@ -1,6 +1,6 @@
 body {
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 1.0625rem;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -18,8 +18,8 @@ h1, h2, h3, h4, h5, nav a {
 }
 
 blockquote {
-  background: #f9f9f9;
-  border-left: 5px solid black;
+  background: $blockquote-bg;
+  border-left: 5px solid $accent-sage;
   font-size: 120%;
   margin: 2rem 0;
   padding: 1rem;
@@ -45,7 +45,7 @@ dl {
 }
 
 code, .highlight {
-    background: #edf2f7;
+    background: $code-bg;
     overflow: auto;
 }
 code {

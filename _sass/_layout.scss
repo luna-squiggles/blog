@@ -1,19 +1,71 @@
 html {
   box-sizing: border-box;
-  margin:0; 
-  padding:0; 
+  margin: 0;
+  padding: 0;
+	min-height: 100%;
+	/* Flat paper only — rubber-band areas show this, not the texture layer. */
+	background-color: $bg-page;
 }
 *, *:before, *:after {
   box-sizing: inherit;
 }
 body {
-    background-color: #E3C5B2;
-    color: #373F47;
+	background-color: transparent;
+    color: $text-body;
+    position: relative;
+}
+
+/* Texture only inside the viewport; overscroll reveals plain html background above. */
+body::before {
+	content: "";
+	position: fixed;
+	inset: 0;
+	z-index: 0;
+	pointer-events: none;
+	opacity: $paper-texture-layer-opacity;
+	background-image:
+		linear-gradient(rgba(255, 253, 247, $paper-texture-wash), rgba(255, 253, 247, $paper-texture-wash)),
+		url($texture-url);
+	background-repeat: no-repeat, no-repeat;
+	background-position: center, center;
+	background-size: cover, cover;
+	background-blend-mode: $paper-bg-blend;
+}
+
+@media print {
+	body::before {
+		display: none;
+	}
+
+	html {
+		background-color: #fff;
+	}
+}
+
+body > header,
+body > main,
+body > footer {
+	position: relative;
+	z-index: 1;
 }
 
 header, main {
 	margin: 0 auto;
     max-width: 50rem;
+}
+
+/* Long-form posts (newspaper layout): header and main share the wide measure. Opt out with `newspaper: false` in front matter. */
+@media (min-width: $bp-newspaper) {
+	body.layout-post:not(:has(.post--no-newspaper)) header,
+	body.layout-post:not(:has(.post--no-newspaper)) main {
+		max-width: 72rem;
+	}
+
+	/* Single-column toggle: prose is full-width inside the article — match that outer width here too. */
+	body.layout-post:has(.post-prose--single) header,
+	body.layout-post:has(.post-prose--single) main {
+		max-width: $post-single-column-outer-width;
+	}
 }
 .grid {
     display: flex;
@@ -40,56 +92,29 @@ header, main {
         margin: 0
     }
 }
-.card:nth-child(1n) {
-  background: #DB966C;
-}
-.card:nth-child(2n) {
-  background: #CB7870;
-}
-.card:nth-child(3n) {
-  background: #A67668;
-}
-.card:nth-child(4n) {
-  background: #E6B77E;
-}
-
-.card:nth-child(5n + 1) {
-  background: #CB7870;
-}
-
-.card:nth-child(6n + 1) {
-  background: #CB7870;
-}
-
-.card:nth-child(7n +1) {
-  background: #E6B77E;
-}
-
-
+/* Card tiles: sage / clay / slate / sand — same family as $accent-*. */
 .card:nth-child(4n + 1) {
-  background: #E6B77E;
+  background: $card-bg-sage;
 }
 .card:nth-child(4n + 2) {
-  background: #A67668;
+  background: $card-bg-clay;
 }
 .card:nth-child(4n + 3) {
-  background: #CB7870;
+  background: $card-bg-slate;
 }
 .card:nth-child(4n + 4) {
-  background: #DB966C;
+  background: $card-bg-sand;
 }
 
 .card {
   //min-height: 100%;
-  background: #f1e2d8;
-  -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+  background: $card-bg-default;
   //display: flex;
   //flex-direction: column;
   text-decoration: none;
   //position: relative;
   //top: 0;
-  color: inherit;
+  color: $card-text-on-tile;
 }
 
 .card .thumb {
@@ -99,7 +124,12 @@ header, main {
 }
 
 .card a {
+	color: inherit;
 	text-decoration: none;
+}
+
+.card a:hover {
+	opacity: 0.92;
 }
 
 .card p { 
@@ -127,12 +157,180 @@ header, main {
   flex-direction: column;
 }
 
+/* Notes index: square tiles */
+.grid.grid--notes {
+	grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+	grid-auto-rows: auto;
+}
+
+.grid--notes .card {
+	--note-tilt: 0deg;
+	aspect-ratio: 1 / 1;
+	min-height: unset;
+	width: 100%;
+	transition: transform 0.25s cubic-bezier(0.25, 0.45, 0.45, 0.95);
+
+	&:hover {
+		transform: rotate(var(--note-tilt, 0deg));
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		transition: none;
+
+		&:hover {
+			transform: none;
+		}
+	}
+}
+
+.grid--notes .card .meta {
+	padding: 1.25rem;
+	flex: 1;
+	min-height: 0;
+	justify-content: space-between;
+}
+
+.grid--notes .card h2 {
+	font-size: 1.1rem;
+	line-height: 1.3;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.grid--notes .card p {
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	flex: 1;
+	min-height: 0;
+	margin: 0.35rem 0 0;
+}
+
+.grid--notes .card time {
+	flex-shrink: 0;
+	margin-top: auto;
+	padding-top: 0.5rem;
+}
+
+.home-sections {
+	display: flex;
+	flex-direction: column;
+	gap: 2.75rem;
+	padding: 1.25rem 0 1rem;
+}
+
+.home-intro {
+	padding: 0 1rem;
+
+	p {
+		margin: 0;
+	}
+}
+
+.posts-list-intro {
+	padding: 0 1rem;
+	margin: 0 0 1.25rem;
+
+	p {
+		margin: 0;
+	}
+}
+
+.home-section__head {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 0.5rem 1rem;
+	margin-bottom: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+	h2 {
+		margin: 0;
+		font-size: 0.95rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		color: $accent-slate;
+		border-left: 3px solid $accent-sage;
+		padding-left: 0.65rem;
+	}
+
+	a {
+		font-size: 0.8rem;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		color: $accent-mist;
+		text-decoration: none;
+		opacity: 0.9;
+
+		&:hover {
+			opacity: 1;
+			text-decoration: underline;
+			color: $accent-slate;
+		}
+	}
+}
+
+.about-intro {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	gap: 1.5rem;
+	flex-wrap: wrap;
+	margin-top: 0.5rem;
+}
+
+.about-intro__text {
+	flex: 1 1 16rem;
+	min-width: 0;
+
+	p:first-child {
+		margin-top: 0;
+	}
+}
+
+.about-profile {
+	margin: 0;
+	flex: 0 0 auto;
+
+	img {
+		max-width: min(100%, 12rem);
+		width: 12rem;
+		height: auto;
+		border-radius: 12px;
+		padding: 0;
+		margin: 0;
+		display: block;
+	}
+}
+
+@media (max-width: 36rem) {
+	.about-intro {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+
+	.about-intro__text {
+		text-align: left;
+		width: 100%;
+	}
+
+	.about-profile img {
+		width: min(100%, 11rem);
+		max-width: 11rem;
+	}
+}
+
 .tags-page {
-		background: #F1E2D8;
+		background: $panel-bg;
 	padding: 2rem 3rem;
-	-webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-	
 
     .tags-intro {
         margin-bottom: 2rem;
@@ -149,7 +347,7 @@ header, main {
     }
 
     a {
-	    background: linear-gradient(to bottom, #373F47 0%, #373F47 100%);
+	    background: linear-gradient(to bottom, $text-body 0%, $text-body 100%);
 	    background-position: 0 95%;
 	    background-repeat: repeat-x;
 	    background-size: 3px 2px;
@@ -158,7 +356,7 @@ header, main {
     }
 
 	a:hover {
-	    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23444444' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+	    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%2306070E' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
 	    background-position: 0 100%;
 	    background-size: auto 5px;
 	    background-repeat: repeat-x;
@@ -167,17 +365,327 @@ header, main {
 	}
 }
 
-.post {
-	background: #F1E2D8;
+.post-end-rule {
+	height: 2px;
+	border: none;
+	margin: 2rem 0;
+	background-color: $rule-color;
+}
+
+/* Long-form posts: sit flush on the page (no panel). */
+.post:not(.note) {
+	background: transparent;
 	padding: 2rem 3rem;
-	-webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-  box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-	color: #000000;
+	color: $text-strong;
+
+	a:hover {
+		color: $accent-slate;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
 	}
-	
+
+	.post-back-nav {
+		margin: 0 0 1.25rem;
+	}
+
+	.post-meta {
+		text-align: center;
+	}
+
+	.post-back {
+		font-size: 0.8rem;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+
+		color: inherit;
+		text-decoration: none;
+		opacity: 0.85;
+
+		&:hover {
+			opacity: 1;
+			text-decoration: underline;
+			color: $accent-sage;
+		}
+	}
+
+	/* Reading-mode control: only shown at the newspaper breakpoint (see rules below). */
+	.post-reading-toggle {
+		display: none;
+		margin: 0 0 1.25rem;
+		font-size: 0.88rem;
+		line-height: 1.5;
+		color: mix($text-body, $bg-page, 68%);
+
+		@media (min-width: $bp-newspaper) {
+			display: block;
+		}
+	}
+
+	.post-reading-toggle__text {
+		margin: 0;
+	}
+
+	.post-reading-toggle__btn {
+		margin-left: 0.45rem;
+		padding: 0.2rem 0.55rem;
+		font: inherit;
+		font-size: 0.88rem;
+		cursor: pointer;
+		color: $accent-slate;
+		background: $panel-bg;
+		border: 1px solid $rule-muted;
+		border-radius: 4px;
+
+		&:hover {
+			color: $accent-sage;
+			border-color: $accent-sage;
+		}
+
+		&:focus-visible {
+			outline: 2px solid $accent-sage;
+			outline-offset: 2px;
+		}
+	}
+
+	/* Two-column newspaper body on wide viewports. */
+	.post-prose--newspaper {
+		@media (min-width: $bp-newspaper) {
+			column-count: 2;
+			column-gap: 2.5rem;
+			column-rule: 1px solid $rule-muted;
+			text-align: justify;
+			hyphens: auto;
+			-webkit-hyphens: auto;
+			/* Keep each paragraph in one column when it fits — avoids a short intro split 3+3 lines. */
+			> p {
+				break-inside: avoid;
+				-webkit-column-break-inside: avoid;
+				page-break-inside: avoid;
+			}
+			/* Same for list items so bullets do not straddle the gutter. */
+			li {
+				break-inside: avoid;
+				-webkit-column-break-inside: avoid;
+			}
+		}
+	}
+
+	/* Single-column reading mode (toggled on wide viewports). Width comes from header/main + article padding. */
+	.post-prose--newspaper.post-prose--single {
+		@media (min-width: $bp-newspaper) {
+			column-count: 1;
+			column-rule: none;
+			column-gap: normal;
+			text-align: left;
+			hyphens: manual;
+			-webkit-hyphens: manual;
+		}
+	}
+
+	.post-prose--newspaper.post-prose--single figure {
+		@media (min-width: $bp-newspaper) {
+			margin-left: auto;
+			margin-right: auto;
+			max-width: $post-single-column-figure-max;
+			text-align: center;
+		}
+	}
+
+	.post-prose--newspaper.post-prose--single figure img {
+		@media (min-width: $bp-newspaper) {
+			max-width: 100%;
+			width: auto;
+			height: auto;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+
+	/* Inline images (not in a figure) — slightly narrower than the column, centred. */
+	.post-prose--newspaper.post-prose--single p img {
+		@media (min-width: $bp-newspaper) {
+			max-width: $post-single-column-figure-max;
+			width: auto;
+			height: auto;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+
+	.post-prose--newspaper > h2,
+	.post-prose--newspaper > h3,
+	.post-prose--newspaper > h4,
+	.post-prose--newspaper > h5,
+	.post-prose--newspaper > h6 {
+		@media (min-width: $bp-newspaper) {
+			column-span: all;
+			text-align: left;
+		}
+	}
+
+	.post-prose--newspaper > blockquote,
+	.post-prose--newspaper > pre,
+	.post-prose--newspaper > table,
+	.post-prose--newspaper > hr {
+		@media (min-width: $bp-newspaper) {
+			column-span: all;
+			text-align: left;
+		}
+	}
+
+	/* Images and figures stay in the column flow (no double-span). */
+	.post-prose--newspaper figure {
+		@media (min-width: $bp-newspaper) {
+			margin: 0.75rem 0;
+			max-width: 100%;
+			break-inside: avoid;
+		}
+	}
+
+	.post-prose--newspaper img {
+		@media (min-width: $bp-newspaper) {
+			max-width: 100%;
+			width: auto;
+			height: auto;
+			margin: 0.65rem 0;
+			padding: 0;
+			display: block;
+		}
+	}
+
+	.post-prose--newspaper p:has(img) {
+		@media (min-width: $bp-newspaper) {
+			break-inside: avoid;
+		}
+	}
+}
+
+/* Land Talks essay: full-width lead, hero, artwork figures, references (`post_variant: land-talks`). */
+.post:not(.note).post--land-talks {
+	.post-lead {
+		@media (min-width: $bp-newspaper) {
+			column-span: all;
+			margin-bottom: 1.5rem;
+			padding-bottom: 0.5rem;
+		}
+
+		p {
+			margin-top: 0;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	.post-section-title {
+		@media (min-width: $bp-newspaper) {
+			column-span: all;
+			text-align: center;
+			margin-top: 0;
+			margin-bottom: 1rem;
+		}
+	}
+
+	.post-meta {
+		margin-bottom: 1rem;
+	}
+
+	/* Artwork figures stay in the newspaper column flow (same as other post images). */
+	.post-figure {
+		margin: 1rem 0;
+
+		@media (min-width: $bp-newspaper) {
+			margin: 0.75rem 0;
+			max-width: 100%;
+			break-inside: avoid;
+		}
+
+		img {
+			width: auto;
+			height: auto;
+			max-width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 0;
+			border-radius: 12px;
+			display: block;
+		}
+
+		figcaption {
+			margin-top: 0.5rem;
+			font-style: italic;
+			text-align: left;
+			line-height: 1.45;
+			color: inherit;
+
+			p {
+				margin: 0.2rem 0;
+				font-style: italic;
+			}
+
+			a {
+				color: inherit;
+				font-style: italic;
+			}
+		}
+	}
+
+	.post-references {
+		margin-top: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid $rule-muted;
+
+		@media (min-width: $bp-newspaper) {
+			column-span: all;
+		}
+
+		p {
+			margin: 0.5rem 0;
+			font-size: 0.88rem;
+			line-height: 1.6;
+		}
+	}
+}
+
+/* Notes: panel + slim accent stripe. */
+.post.note {
+	background: $panel-bg;
+	padding: 2rem 3rem;
+	border-left: 3px solid $accent-clay;
+	color: $text-strong;
+
+	a:hover {
+		color: $accent-clay;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: 700;
+	}
+
+	.post-back-nav {
+		margin: 0 0 1.25rem;
+	}
+
+	.post-back {
+		font-size: 0.8rem;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+
+		color: inherit;
+		text-decoration: none;
+		opacity: 0.85;
+
+		&:hover {
+			opacity: 1;
+			text-decoration: underline;
+			color: $accent-clay;
+		}
+	}
 }
 
 .card {
@@ -197,7 +705,7 @@ table {
     width: 100%;
 
     tr {
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid $table-border;
     }
 
     td {
@@ -248,6 +756,12 @@ nav {
 	    letter-spacing: .05em;
 	    //opacity: 0.6;
     }
+
+    a.active {
+	    color: $accent-slate;
+	    border-bottom: 2px solid $accent-mist;
+	    padding-bottom: 0.15rem;
+    }
 }
 
 footer {
@@ -257,5 +771,5 @@ footer {
 
 ::selection {
     color: #fff;
-    background-color: #b9a186;
+    background-color: $accent-sage;
 }

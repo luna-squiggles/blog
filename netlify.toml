@@ -1,3 +1,15 @@
+# Avoid stale HTML after deploys (homepage and other unprefixed URLs).
+[[headers]]
+  for = "/"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Revalidate by default so HTML (inlined SCSS) is not served stale. Rules below override for assets.
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
   [headers.values]
@@ -6,8 +18,8 @@
     Referrer-Policy = "no-referrer"
     X-Content-Type-Options = "nosniff"
     Feature-Policy = "vibrate 'none'; geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'none'; payment 'none'"
-    
-    
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 [[headers]]
   for = "*.ico"
   [headers.values]

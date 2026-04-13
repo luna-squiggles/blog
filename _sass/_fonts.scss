@@ -1,3 +1,19 @@
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: normal;
+	font-weight: 400 700;
+	font-display: swap;
+	src: url($font-libre-normal) format('truetype');
+}
+
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: italic;
+	font-weight: 400 700;
+	font-display: swap;
+	src: url($font-libre-italic) format('truetype');
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=IBM+Plex+Mono:wght@400;700&display=swap');
 
 html {
@@ -25,8 +41,8 @@ html {
 }
 
 .post {
-    font-family: 'Century Schoolbook', serif;
-    font-size: 18px;
+	font-family: 'Libre Baskerville', 'Century Schoolbook', Georgia, serif;
+	font-size: 1.1875rem;
 }
 
 .post code,
@@ -37,11 +53,9 @@ html {
 
 .page {
     font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 18px;
-    line-height: 1.6;
-    background: #F1E2D8;
+    font-size: 1.1875rem;
+    line-height: 1.65;
+    background: $panel-bg;
     padding: 2rem 3rem;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-    box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
-    color: #815355;
+    color: $text-body;
 }

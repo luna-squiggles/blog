@@ -1,4 +1,6 @@
 tmp
+vendor/bundle
+.bundle
 *.rdb
 .env
 .sass-cache

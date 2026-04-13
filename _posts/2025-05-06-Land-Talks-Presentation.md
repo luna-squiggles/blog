@@ -5,7 +5,12 @@ description: My recent presentation at Land Talks on the representation of land 
 summary: My recent presentation at Land Talks on the representation of land in art
 tags: [essays]
 show_on_homepage: true
+newspaper: true
+post_variant: land-talks
+show_reading_toggle: false
 ---
+
+<div class="post-lead" markdown="1">
 
 Last week I had the please of giving a lightning talk on the representation of land in oil painting at the [inaugural](https://lu.ma/mm4dg8fy) [Land Talks](https://lu.ma/landtalks) event. I focused on the central, quite compelling, question of “What can we learn about how land has been perceived from oil paintings?”
 
@@ -13,9 +18,13 @@ However, as is the nature of a lightning talk, I only spoke for a few minutes (s
 
 Naturally, this led to my research notes having a large chunk of what I would describe as interesting context removed, and as such inspired this decision to write this post, in which I’d like to walk you through four paintings that track the depiction of land; from a shared subsistence resource, to a broadly unobtainable signal of class divide, and the history that took place in between.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Presentation.png" alt="Me presenting at Land Talks" style="max-width: 100%; height: auto; border-radius: 20px;"/>
+</div>
 
-## 🖼️ Brushstrokes of Power: Land, Art, and the Language of Status
+<h2 class="post-section-title">🖼️ Brushstrokes of Power: Land, Art, and the Language of Status</h2>
+
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Presentation.png" alt="Me presenting at Land Talks" />
+</figure>
 
 The question of what we can learn about land from oil paintings is particularly interesting one, practically so because the rise of oil paintings coincided with the commodification of land, or maybe because this rise was the direct result of the shift from feudalism to capitalism.
 
@@ -25,10 +34,13 @@ Oil paint was first used in the 15th century, however arguably became an art for
 
 The significant overlap in shifting perspectives of land allows us to quite effectively look at the change in its representation in art through the single medium of oil painting. However, there is not a significant amount of oil work to depict feudal life (for reasons outlined in my post [Ways of Seeing: Part 3](https://blog.lunamustfa.com/2025/03/01/ways-of-seeing-3)), so in order to paint the contextual scene, if you will, we must discuss feudal life in England through a Dutch Renaissance painter’s work in Flanders.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/The-Harvesters.png" alt="The Harvesters" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-
-[Pieter Bruegel the Elder, *The Harvesters* (1565)](https://www.metmuseum.org/art/collection/search/435809)
-Oil on wood panel, The Metropolitan Museum of Art, New York
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/The-Harvesters.png" alt="The Harvesters" />
+  <figcaption>
+    <p><a href="https://www.metmuseum.org/art/collection/search/435809">Pieter Bruegel the Elder, The Harvesters (1565)</a></p>
+    <p>Oil on wood panel, The Metropolitan Museum of Art, New York</p>
+  </figcaption>
+</figure>
 
 Painted in the late 16th century and during the time when feudalism in England was declining, *The Harvesters*, is arguably an odd choice to represent feudal life. However, the decline of feudalism occurred more quickly in England, in part due to the Enclosure movement which began in the 12th century (discussed later!), and Bruegel’s depiction here does highlight some important feudal context.
 
@@ -38,9 +50,13 @@ This reality was such that in feudal Europe, land was held by titled lords and w
 
 Bruegel’s work depicts a group of peasants harvesting wheat, labouring together to sustain an estate. Here he presents the land as a collective site of production, where the value on the land arises from communal labour. The absence of any enclosed plots here highlights the peasantry’s role within a broader feudal order—the land here is a shared, hierarchical resource, serving the manors needs. In contrast to later paintings where land would serve to display states, here it serves as a site of survival for the peasants.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Luttrel-Pslater.png" alt="Luttrel Psalter" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-[Anonymous, Scene from the *Luttrell Psalter*, c. 1325–1340](https://blogs.bl.uk/digitisedmanuscripts/2013/09/the-luscious-luttrell-psalter.html)
-Illuminated manuscript on parchment, British Library, London
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Luttrel-Pslater.png" alt="Luttrel Psalter" />
+  <figcaption>
+    <p><a href="https://blogs.bl.uk/digitisedmanuscripts/2013/09/the-luscious-luttrell-psalter.html">Anonymous, Scene from the Luttrell Psalter, c. 1325–1340</a></p>
+    <p>Illuminated manuscript on parchment, British Library, London</p>
+  </figcaption>
+</figure>
 
 ### The Rise of Private Property: Land as Symbols of Individual Status
 
@@ -48,16 +64,23 @@ While *The Harvesters* was painted in Flanders, its depiction of rural life reso
 
 *The Harvesters* and *Luttrell Psalter* reflect a time where land was held in common and worked collectively, however, this agrarian order would give way to a new form of capitalism. Over the next 200 years from the mid 16th century of *The Harvesters*, England saw a reorganisation of its rural landscape—a transformation driven by the Enclosure movement, the consolidation of communal land into privately owned, enclosed, plots ([Neeson, 1993](https://www.cambridge.org/gb/universitypress/subjects/history/british-history-after-1450/commoners-common-right-enclosure-and-social-change-england-17001820?format=PB)). Beginning in the medieval period but accelerating through the 17th and 18th centuries, enclosure marked a shift in both the use of land and in how it was perceived.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/A-Pair-of-Pigs.png" alt="A Pair of Pigs" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-[Unknown Artist, *A Pair of Pigs* (c. 1850)](https://artuk.org/discover/artworks/a-pair-of-pigs-54730)
-Oil on canvas, Compton Verney Art Gallery and Park, Warwickshire
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/A-Pair-of-Pigs.png" alt="A Pair of Pigs" />
+  <figcaption>
+    <p><a href="https://artuk.org/discover/artworks/a-pair-of-pigs-54730">Unknown Artist, A Pair of Pigs (c. 1850)</a></p>
+    <p>Oil on canvas, Compton Verney Art Gallery and Park, Warwickshire</p>
+  </figcaption>
+</figure>
 
 This transformation whilst both legal and economic, also reflected a cultural change. As land became privatised, so too did the symbols associated with it. Animals once raised on common grazing fields, such as pigs and sheep, now became private assets, nurtured within enclosed fields and sometimes represented in art as emblems of proprietorship ([Howkins, 2003](https://books.google.co.uk/books/about/The_Death_of_Rural_England.html?id=_vwUoqhnEWwC&redir_esc=y)). The oil painting *A Pair of Pigs* (c. 1850): two overinflated pigs, posed like subjects of a portrait. Their cleanliness and separation from any working environment imply not utility but ownership—they are possessed ([Williamson, 1995](https://books.google.co.uk/books/about/Polite_Landscapes.html?id=vFiLQAAACAAJ&redir_esc=y)).
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Mr-and-Mrs-Andrews.png" alt="Mr and Mrs Andrews" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-[Thomas Gainsborough, *Mr and Mrs Andrews* (c. 1750)](https://www.nationalgallery.org.uk/paintings/thomas-gainsborough-mr-and-mrs-andrews)
-
-Oil on canvas, The National Gallery, London
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Mr-and-Mrs-Andrews.png" alt="Mr and Mrs Andrews" />
+  <figcaption>
+    <p><a href="https://www.nationalgallery.org.uk/paintings/thomas-gainsborough-mr-and-mrs-andrews">Thomas Gainsborough, Mr and Mrs Andrews (c. 1750)</a></p>
+    <p>Oil on canvas, The National Gallery, London</p>
+  </figcaption>
+</figure>
 
 This logic, land and it’s productivity as signs of wealth, finds a more refined expression in *Mr and Mrs Andrews* (c. 1750) by Thomas Gainsborough. Here, the shift from collective to private is fully visualised. The couple are seated proudly against the backdrop of their estate—not just a backdrop, in fact, but the true subject of the painting. The rolling fields, the tidy rows of crops, and the enclosed parkland all serve to communicate the message that this is their’s, and they own this land. Unlike Bruegel’s anonymous peasants whose labour sustains the land, Gainsborough’s sitters are landowners whose status is sustained *by* it.
 
@@ -69,9 +92,13 @@ By the early 19th century, the cultural relationship to land had evolved once ag
 
 John Constable’s *Wivenhoe Park, Essex* (1816) captures this shift. Commissioned by Francis Rebow, the painting depicts the Rebow family estate in a harmonious landscape. Cattle graze peacefully beside a still lake, a modest mansion sits among carefully spaced trees, and the horizon is softened by summer light. The painting is richly detailed, but free of dramatic focal points—everything is ordered, balanced, and benign.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Wivenhoe-Park.png" alt="Wivenhoe Park" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-[John Constable, *Wivenhoe Park, Essex* (1816)](https://www.nga.gov/artworks/1147-wivenhoe-park-essex)
-Oil on canvas, National Gallery of Art, Washington, D.C.
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Wivenhoe-Park.png" alt="Wivenhoe Park" />
+  <figcaption>
+    <p><a href="https://www.nga.gov/artworks/1147-wivenhoe-park-essex">John Constable, Wivenhoe Park, Essex (1816)</a></p>
+    <p>Oil on canvas, National Gallery of Art, Washington, D.C.</p>
+  </figcaption>
+</figure>
 
 What’s striking is how little this landscape seems to do. Unlike the bustling labour scenes of Bruegel, or the assertive symbolism of Gainsborough, Constable’s *Wivenhoe Park* projects serenity. Yet this tranquility is deeply political. The parkland appears natural, but is in fact the product of intense planning and reshaping. The fields are smooth and enclosed, the water is managed, and the grazing animals serve not as economic necessities but as picturesque ornamentation. It is a vision of nature tamed and curated—a pastoral fantastical reality of land not only owned, but controlled.
 
@@ -85,9 +112,13 @@ By the mid-19th century, the consequences of enclosure and industrialisation wer
 
 Few paintings confront this shift more directly than Pre-Raphaelite Ford Madox Brown’s *Work* (1852–65). Where Constable had given us stillness and pastoral calm, Brown gives us movement, chaos, and tension. At its centre are a group of labourers digging up a road in suburban London. They are muscular, sunlit, and central, almost idealised. But unlike the aristocrats of Gainsborough or the gentry of Constable, they are not landowners. They are workers, shaping the land but alienated from its possession.
 
-<img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Work.png" alt="Work" style="max-width: 100%; height: auto; border-radius: 20px;"/>
-[Ford Madox Brown, *Work* (c. 1852-65)](https://artuk.org/discover/artworks/work-205502)
-Oil on canvas, Manchester Art Gallery
+<figure class="post-figure">
+  <img src="/images/2025-05-06-Land-Talks-Presentation-Assets/Work.png" alt="Work" />
+  <figcaption>
+    <p><a href="https://artuk.org/discover/artworks/work-205502">Ford Madox Brown, Work (c. 1852-65)</a></p>
+    <p>Oil on canvas, Manchester Art Gallery</p>
+  </figcaption>
+</figure>
 
 Around them cluster representatives of a fragmented society. To the left, educated middle-class reformers distribute pamphlets. To the right, a group of ragged children and a woman with a baby stand passively, figures of poverty. In the background, flâneur aristocrats stroll with no apparent purpose. Nature is present—trees, flowers, sun—but subdued. The real subject here is human struggle, not the land.
 
@@ -99,7 +130,7 @@ Across these centuries, we can trace in oil painting a transformation in the mea
 
 Crucially, these paintings do more than depict landscapes—they encode ideologies. They reflect not just what land looked like, but how it was valued, governed, and contested. And just as they offer insight into the past, they leave us with questions for the present: In an age of housing crises, and land speculation, how will land be represented in the next wave of cultural production? Will it be a site of individual subsistence, or of further enclosure?
 
----
+<section class="post-references" markdown="1">
 
 [Jones, S. (2002, October 1). *Painting in Oil in the Low Countries and Its Spread to Southern Europe*. The Metropolitan Museum of Art.](https://www.metmuseum.org/essays/painting-in-oil-in-the-low-countries-and-its-spread-to-southern-europe)
 
@@ -111,7 +142,7 @@ Crucially, these paintings do more than depict landscapes—they encode ideologi
 
 [The Editors of Encyclopaedia Britannica (2013, February 25). enclosure. Encyclopedia Britannica.](https://www.notion.so/Turn-land-talks-into-blog-post-1ebfeadbb2e380b28821fe0b233ebb40?pvs=21)
 
-[Neeson, J. M. (1993). Commoners: Common Right, Enclosure and Social Change in England, 1700–1820.](https://www.cambridge.org/gb/universitypress/subjects/history/british-history-after-1450/commoners-common-right-enclosure-and-social-change-england-17001820?format=PB)
+[Neeson, J. M. (1993). Commoners: Common Right, Enclosure and Social Change in England, 1700–1820.](https://www.cambridge.org/gb/universitypress/subjects/history/british-history-after-1450/commoners-common-right-enclosure-and-social-change-in-england-17001820?format=PB)
 
 [Alun Howkins (2003), “The Discovery of Rural England”. Psychology Press.](https://books.google.co.uk/books/about/The_Death_of_Rural_England.html?id=_vwUoqhnEWwC&redir_esc=y)
 
@@ -120,3 +151,5 @@ Crucially, these paintings do more than depict landscapes—they encode ideologi
 [Williamson, Tom (1995). Polite Landscapes: Gardens and Society in Eighteenth-Century England.](https://books.google.co.uk/books/about/Polite_Landscapes.html?id=vFiLQAAACAAJ&redir_esc=y)
 
 [Rosenblum, Robert. Modern Painting and the Northern Romantic Tradition.](https://books.google.co.uk/books/about/Modern_Painting_and_the_Northern_Romanti.html?id=bSFQAAAAMAAJ&redir_esc=y)
+
+</section>

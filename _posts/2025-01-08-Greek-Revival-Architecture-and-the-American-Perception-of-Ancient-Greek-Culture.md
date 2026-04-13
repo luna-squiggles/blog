@@ -55,6 +55,8 @@ Through Greek Revival, the United States not only established a visual identity 
 
 Greek Revival architecture serves as both a reflection of and a reinforcement for a cultural myth that links the American experiment to the ancient Greek polis. While these buildings act as enduring symbols of democracy and justice, they also highlight the power of architectural storytelling in shaping historical associations and national identity. By critically examining their symbolism, we can better understand how historical narratives are constructed – and how they can both inspire and obscure historical complexity.
 
+---
+
 University of Michigan (2021). Philhellenism.  
 [University of Michigan, 2021](https://apps.lib.umich.edu/online-exhibits/exhibits/show/200th-anniversary-greek-war/philhellenism)  
 

@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="home-sections">
+
+  <div class="home-intro">
+    <p>Hi, I'm Luna, and welcome to my blog! Here you'll find some of my writing—some about my work, some about the history of art.</p>
+  </div>
+
+  <section class="home-section" aria-labelledby="home-notes-heading">
+    <div class="home-section__head">
+      <h2 id="home-notes-heading">Notes</h2>
+      <a href="{{ '/notes/' | relative_url }}">All notes</a>
+    </div>
+    <div class="grid grid--notes">
+      {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
+      {% assign home_notes = sorted_notes | slice: 0, 6 %}
+      {% for note in home_notes %}
+        <article role="article" class="card">
+          <div class="meta">
+            <h2><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></h2>
+            {% if note.summary %}
+            <p>{{ note.summary }}</p>
+            {% endif %}
+            <time class="date" datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%B %-d, %Y" }}</time>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="home-section" aria-labelledby="home-posts-heading">
+    <div class="home-section__head">
+      <h2 id="home-posts-heading">Posts</h2>
+      <a href="{{ '/posts/' | relative_url }}">All posts</a>
+    </div>
+    <div class="grid">
+      {% assign visible_posts = site.posts | where_exp: "post", "post.show_on_homepage != false" %}
+      {% assign home_posts = visible_posts | slice: 0, 3 %}
+      {% for post in home_posts %}
+        <article role="article" class="card">
+          <div class="meta">
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+            <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+</div>

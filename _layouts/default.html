@@ -3,11 +3,11 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-build="{{ site.time | date_to_xmlschema }}">
 
   {% include head.html %}
 
-  <body>
+  <body class="layout-{{ page.layout | default: 'default' }}">
      {% include masthead.html %}
 
       <main id="main" role="main">
@@ -16,6 +16,7 @@ layout: compress
       </main>
 
     {% include footer.html %}
+    {% include note-cards-tilt.html %}
 
   </body>
 </html>

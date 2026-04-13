@@ -2,11 +2,20 @@
 layout: page
 title: About
 ---
-  
-## Hiya, my name is Luna Mustfa
 
-I work in an MP's office where I build digital transparency tools, work on interesting interventions, and complain about how hot our office is!
+## Hiya, my name is Luna
 
-My interests are in developing responsive & functional web applications, writing about paintings, visiting coffee shops, and talking about housing policy.
+<div class="about-intro">
+<figure class="about-profile">
+  <img src="{{ '/profile.jpg' | relative_url }}" alt="Luna Mustfa" />
+</figure>
+<div class="about-intro__text" markdown="1">
+
+I work in Parliament where I focus on our incumbency, our comms and narratives, as well as policy work.
+
+My interests are writing about paintings, visiting coffee shops with my friends, and spending time with my cat 🐱
 
 My website -> [lunamustfa.com](https://lunamustfa.com/)
+
+</div>
+</div>

@@ -1,3 +1,7 @@
+$texture-url: "{{ site.baseurl }}/texture.jpg";
+$font-libre-normal: "{{ site.baseurl }}/assets/fonts/LibreBaskerville-VariableFont_wght.ttf";
+$font-libre-italic: "{{ site.baseurl }}/assets/fonts/LibreBaskerville-Italic-VariableFont_wght.ttf";
+@import "variables";
 @import "fonts";
 @import "type";
 @import "layout";

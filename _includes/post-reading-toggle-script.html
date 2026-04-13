@@ -1,0 +1,52 @@
+<script>
+(function () {
+	/* Keep min-width in sync with $bp-newspaper in _sass/_variables.scss */
+	var mq = window.matchMedia('(min-width: 60rem)');
+	var prose = document.getElementById('post-prose');
+	var btn = document.getElementById('post-column-toggle');
+	if (!prose || !btn) return;
+
+	var KEY = 'blogPostColumnMode';
+	var labelSingle = btn.getAttribute('data-label-single');
+	var labelColumns = btn.getAttribute('data-label-columns');
+
+	function setMode(single) {
+		if (single) {
+			prose.classList.add('post-prose--single');
+			btn.setAttribute('aria-pressed', 'true');
+			btn.textContent = labelColumns;
+		} else {
+			prose.classList.remove('post-prose--single');
+			btn.setAttribute('aria-pressed', 'false');
+			btn.textContent = labelSingle;
+		}
+		try {
+			localStorage.setItem(KEY, single ? 'single' : 'columns');
+		} catch (e) {}
+	}
+
+	btn.addEventListener('click', function () {
+		if (!mq.matches) return;
+		setMode(!prose.classList.contains('post-prose--single'));
+	});
+
+	function applyForViewport() {
+		if (!mq.matches) {
+			prose.classList.remove('post-prose--single');
+			btn.setAttribute('aria-pressed', 'false');
+			btn.textContent = labelSingle;
+			return;
+		}
+		try {
+			var saved = localStorage.getItem(KEY);
+			if (saved === 'single') setMode(true);
+			else setMode(false);
+		} catch (e) {
+			setMode(false);
+		}
+	}
+
+	applyForViewport();
+	if (mq.addEventListener) mq.addEventListener('change', applyForViewport);
+})();
+</script>
