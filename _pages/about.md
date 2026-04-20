@@ -13,6 +13,8 @@ title: About
 
 I work in Parliament where I focus on our incumbency, our comms and narratives, as well as policy work.
 
+**All views on this blog are my own.**
+
 My interests are writing about paintings, visiting coffee shops with my friends, and spending time with my cat 🐱
 
 My website -> [lunamustfa.com](https://lunamustfa.com/)

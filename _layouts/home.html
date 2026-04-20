@@ -18,13 +18,15 @@ layout: default
       {% assign home_notes = sorted_notes | slice: 0, 6 %}
       {% for note in home_notes %}
         <article role="article" class="card">
+          <a class="card__link" href="{{ site.baseurl }}{{ note.url }}" aria-label="Open note: {{ note.title }}">
           <div class="meta">
-            <h2><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></h2>
+            <h2>{{ note.title }}</h2>
             {% if note.summary %}
             <p>{{ note.summary }}</p>
             {% endif %}
             <time class="date" datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%B %-d, %Y" }}</time>
           </div>
+          </a>
         </article>
       {% endfor %}
     </div>
@@ -40,11 +42,13 @@ layout: default
       {% assign home_posts = visible_posts | slice: 0, 3 %}
       {% for post in home_posts %}
         <article role="article" class="card">
+          <a class="card__link" href="{{ site.baseurl }}{{ post.url }}" aria-label="Open post: {{ post.title }}">
           <div class="meta">
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2>{{ post.title }}</h2>
             <p>{{ post.summary }}</p>
             <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
           </div>
+          </a>
         </article>
       {% endfor %}
     </div>

@@ -11,15 +11,15 @@ layout: default
   {% assign sorted_notes = site.notes | sort: 'date' | reverse %}
   {% for note in sorted_notes %}
     <article role="article" class="card">
+      <a class="card__link" href="{{ site.baseurl }}{{ note.url }}" aria-label="Open note: {{ note.title }}">
       <div class="meta">
-        <h2><a href="{{ site.baseurl }}{{ note.url }}">
-          {{ note.title }}
-        </a></h2>
+        <h2>{{ note.title }}</h2>
         {% if note.summary %}
         <p>{{ note.summary }}</p>
         {% endif %}
         <time class="date" datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%B %-d, %Y" }}</time>
       </div>
+      </a>
     </article>
   {% endfor %}
 
