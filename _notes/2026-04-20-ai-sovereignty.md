@@ -5,8 +5,6 @@ summary: Some thoughts on AI sovereignty, dependency, and strategic layers of na
 tags:
 ---
 
-## On AI Sovereignty
-
 *All views are my own*
 
 Approximately 80% of government cloud systems rely on just two providers, primarily AWS and Microsoft. [When an American company experiences an outage, HMRC services become unavailable](https://www.theguardian.com/technology/2025/oct/21/significant-exposure-amazon-web-services-outage-exposed-uk-states-17bn-reliance-on-tech-giant). Most people, asked whether this is arrangement is one we should be comfortable with, would say no. Yet we've arrived here through a long sequence of individually reasonable decisions about cost, capability, and convenience. The question of AI sovereignty is, at it’s root, the same question asked today; what are we willing to depend on others for, and where do we insist on holding our own ground?
